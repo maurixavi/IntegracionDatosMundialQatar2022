@@ -1,0 +1,931 @@
+,player_id,known_as,nationality
+0,,Saad Al Sheeb,Qatar
+1,,Yousef Hassan,Qatar
+2,,Meshaal Barsham,Qatar
+3,,Salah Zakaria,Qatar
+4,171412.0,Abdelkarim Hassan,Qatar
+5,,Mohammed Waad,Qatar
+6,,Tarek Salman,Qatar
+7,556713.0,Homam Ahmed,Qatar
+8,,Bassam Al Rawi,Qatar
+9,,Boualem Khoukhi,Qatar
+10,,Ismaeel Mohammad,Qatar
+11,,Ahmed Fadel,Qatar
+12,,Mohammed Emad Aiash,Qatar
+13,,Jassem Gaber Abdulsallam,Qatar
+14,,Ro Ro,Qatar
+15,,Abdulaziz Hatem,Qatar
+16,,Hazem Shehata,Qatar
+17,,Ali Assadalla,Qatar
+18,,Hassan Al Haydos,Qatar
+19,,Karim Boudiaf,Qatar
+20,,Musab Khoder,Qatar
+21,,Mostafa Tarek,Qatar
+22,,Naif Al Hadhrami,Qatar
+23,,Abdelrahman Moustafa,Qatar
+24,,Yusuf Abdurisag Yusuf,Qatar
+25,,Osamah Al Tairi,Qatar
+26,,Ahmed Alaaeldin,Qatar
+27,,Mohammed Muntari,Qatar
+28,336646.0,Akram Afif,Qatar
+29,,Khalid Muneer Mazeed,Qatar
+30,,Almoez Ali,Qatar
+31,,Alexander Dominguez,Ecuador
+32,,Hernan Galindez,Ecuador
+33,,Moises Ramirez,Ecuador
+34,,Gonzalo Valle,Ecuador
+35,,Byron Castillo,Ecuador
+36,450241.0,Angelo Preciado,Ecuador
+37,,Luis Leon,Ecuador
+38,,Xavier Arreaga,Ecuador
+39,,Piedro Hincapie,Ecuador
+40,349599.0,Pervis Estupinan,Ecuador
+41,425567.0,Diego Palacios,Ecuador
+42,491616.0,Jackson Porozo,Ecuador
+43,661171.0,William Pacho,Ecuador
+44,189475.0,Carlos Gruezo,Ecuador
+45,,Jhegson Mendez,Ecuador
+46,687626.0,Moises Caicedo,Ecuador
+47,,Patrickson Delgado,Ecuador
+48,,Jose Cifuentes,Ecuador
+49,,Alan Franco,Ecuador
+50,592735.0,Gonzalo Plata,Ecuador
+51,568005.0,Jeremy Sarmiento,Ecuador
+52,,Romario Ibarra,Ecuador
+53,,Nilson Angulo,Ecuador
+54,,Anthony Valencia,Ecuador
+55,,Michael Estrado,Ecuador
+56,,Djorkaeff Reasco,Ecuador
+57,139503.0,Enner Valencia,Ecuador
+58,250870.0,Seny Dieng,Senegal
+59,442531.0,Edouard Mendy,Senegal
+60,163568.0,Alfred Gomis,Senegal
+61,,Mory Diaw,Senegal
+62,,Noah Fadiga,Senegal
+63,,Formose Mendy,Senegal
+64,93128.0,Kalidou Koulibaly,Senegal
+65,,Pape Cisse,Senegal
+66,,Fode Ballo,Senegal
+67,,Ismail Jakobs,Senegal
+68,,Moussa Niakhate,Senegal
+69,229005.0,Abdou Diallo,Senegal
+70,126665.0,Idrissa Gueye,Senegal
+71,111051.0,Nampalys Mendy,Senegal
+72,66934.0,Cheikhou Kouyate,Senegal
+73,525578.0,Pathe Ciss,Senegal
+74,,Pape Sarr,Senegal
+75,,Iliman Ndiaye,Senegal
+76,,Moustapha Name,Senegal
+77,364237.0,Mamadou Loum,Senegal
+78,485963.0,Pape Gueye,Senegal
+79,626913.0,Boulaye Dia,Senegal
+80,200512.0,Sadio Mane,Senegal
+81,490426.0,Krepin Diatta,Senegal
+82,410225.0,Ismaila Sarr,Senegal
+83,,Bamba Dieng,Senegal
+84,776890.0,Nicolas Jackson,Senegal
+85,551752.0,Demba Seck,Senegal
+86,,Justin Bijlow,Nederland
+87,,Jasper Cillessen,Nederland
+88,,Mark Flekken,Nederland
+89,,Andries Noppert ,Nederland
+90,,Remko Pasveer,Nederland
+91,,Nathan Ake,Nederland
+92,,Mitchel Bakker,Nederland
+93,,Daley Blind,Nederland
+94,,Sven Botman,Nederland
+95,,Matthijs de Ligt,Nederland
+96,,Stefan de Vrij,Nederland
+97,,Denzel Dumfries,Nederland
+98,,Jeremie Frimpong,Nederland
+99,,Tyrell Malacia,Nederland
+100,,Devyne Rensch,Nederland
+101,,Pascal Struijk,Nederland
+102,,Jurrien Timber,Nederland
+103,,Micky van de Ven,Nederland
+104,,Virgil van Dijk,Nederland
+105,,Steven Berghuis,Nederland
+106,,Jordy Clasie,Nederland
+107,,Frenkie de Jong,Nederland
+108,,Marten de Roon,Nederland
+109,,Ryan Gravenberch,Nederland
+110,,Davy Klaassen,Nederland
+111,,Teun Koopmeiners,Nederland
+112,,Xavi Simons,Nederland
+113,,Kenneth Taylor,Nederland
+114,,Guus Til,Nederland
+115,,Steven Bergwijn,Nederland
+116,,Brian Brobbey,Nederland
+117,,Luuk de Jong,Nederland
+118,,Arnaut Danjuma,Nederland
+119,,Memphis Depay,Nederland
+120,,Cody Gakpo,Nederland
+121,,Vincent Janssen,Nederland
+122,,Noa Lang,Nederland
+123,,Donyell Malen,Nederland
+124,,Wout Weghorst,Nederland
+125,130164.0,Jordan Pickford,England
+126,427568.0,Aaron Ramsdale,England
+127,192080.0,Nick Pope,England
+128,95810.0,Kieran Trippier,England
+129,,Trent Alexander Arnold,England
+130,95424.0,Kyle Walker,England
+131,,Ben White,England
+132,177907.0,Harry Maguire,England
+133,186590.0,John Stones,England
+134,175722.0,Eric Dier,England
+135,128901.0,Conor Coady,England
+136,183288.0,Luke Shaw,England
+137,357662.0,Declan Rice,England
+138,581678.0,Jude Bellingham,England
+139,351749.0,Kalvin Phillips,England
+140,61651.0,Jordan Henderson,England
+141,488362.0,Conor Gallagher,England
+142,346483.0,Mason Mount,England
+143,132098.0,Harry Kane,England
+144,123682.0,Callum Wilson,England
+145,258923.0,Marcus Rashford,England
+146,134425.0,Raheem Sterling,England
+147,433177.0,Bukayo Saka,England
+148,406635.0,Phil Foden,England
+149,203460.0,Jack Grealish,England
+150,294057.0,James Maddison,England
+151,,Alireza Beiranvand,Iran
+152,,Payam Niazmand,Iran
+153,218431.0,Amir Abedzadeh,Iran
+154,,Hossein Hosseini,Iran
+155,,Sadegh Moharrami,Iran
+156,,Shoja Khalilzadeh,Iran
+157,,Milad Mohammadi Keshmarzi,Iran
+158,,Morteza Pouraliganji,Iran
+159,,Mohammad Hossein Kanani Zadegan,Iran
+160,,Saleh Hardani,Iran
+161,294767.0,Majid Hosseini,Iran
+162,,Ramin Rezaeian,Iran
+163,,Abolfazl Jalali,Iran
+164,,Seyed Mehdi Hosseini,Iran
+165,,Ehsan Hajsafi,Iran
+166,,Saeid Ezatolahi,Iran
+167,213268.0,Alireza Jahanbakhsh,Iran
+168,204294.0,Saman Ghoddos,Iran
+169,294772.0,Ali Gholizadeh,Iran
+170,,Milad Sarlak,Iran
+171,180337.0,Sardar Azmoun,Iran
+172,,Omid Noorafkan,Iran
+173,,Ahmad Noorollahi,Iran
+174,,Omid Ebrahimi,Iran
+175,307058.0,Mehdi Taremi,Iran
+176,,Karim Ansarifard,Iran
+177,,Vahid Amiri,Iran
+178,,Mehdi Torabi,Iran
+179,,Matt Turner,United States
+180,,Sean Johnson,United States
+181,242284.0,Ethan Horvath,United States
+182,,Cameron Carter Vickers,United States
+183,361104.0,Sergino Dest,United States
+184,,Aaron Long,United States
+185,,Shaq Moore,United States
+186,145466.0,Tim Ream,United States
+187,349701.0,Antonee Robinson,United States
+188,504153.0,Joe Scally,United States
+189,,DeAndre Yedlin,United States
+190,,Walker Zimmerman,United States
+191,,Brenden Aaronson,United States
+192,,Kellyn Acosta,United States
+193,332705.0,Tyler Adams,United States
+194,,Luca de la Torre,United States
+195,,Weston McKennie,United States
+196,503991.0,Yunus Musah,United States
+197,,Cristian Roldan,United States
+198,,Jesus Ferreira,United States
+199,,Jordan Morris,United States
+200,315779.0,Christian Pulisic,United States
+201,504215.0,Giovanni Reyna,United States
+202,,Joshua Sargent,United States
+203,370846.0,Timothy Weah,United States
+204,315291.0,Haji Wright,United States
+205,45494.0,Wayne Hennessey,Wales
+206,203026.0,Danny Ward,Wales
+207,,Adam Davies,Wales
+208,192765.0,Ben Davies,Wales
+209,,Ben Cabango,Wales
+210,,Tom Lockyer,Wales
+211,297212.0,Joe Rodon,Wales
+212,480987.0,Chris Mepham,Wales
+213,392771.0,Ethan Ampadu,Wales
+214,,Chris Gunter,Wales
+215,503680.0,Neco Williams,Wales
+216,214666.0,Connor Roberts,Wales
+217,,Sorba Thomas,Wales
+218,51452.0,Joe Allen,Wales
+219,,Matthew Smith,Wales
+220,496652.0,Dylan Levitt,Wales
+221,279455.0,Harry Wilson,Wales
+222,,Joe Morrell,Wales
+223,,Jonny Williams,Wales
+224,50057.0,Aaron Ramsey,Wales
+225,,Rubin Colwill,Wales
+226,39381.0,Gareth Bale,Wales
+227,,Kieffer Moore,Wales
+228,,Mark Harris,Wales
+229,,Brennan Johnson,Wales
+230,319301.0,Daniel James,Wales
+231,111873.0,Emiliano Martinez,Argentina
+232,229604.0,Geronimo Rulli,Argentina
+233,,Franco Armani,Argentina
+234,242359.0,Juan Musso,Argentina
+235,54534.0,Agustin Marchesin,Argentina
+236,,Agustin Rossi,Argentina
+237,424042.0,Nahuel Molina,Argentina
+238,402733.0,Gonzalo Montiel,Argentina
+239,355915.0,Cristian Romero,Argentina
+240,113133.0,German Pezzella,Argentina
+241,54781.0,Nicolas Otamendi,Argentina
+242,480762.0,Lisandro Martinez,Argentina
+243,60410.0,Marcos Acuna,Argentina
+244,131225.0,Nicolas Tagliafico,Argentina
+245,480763.0,Juan Foyth,Argentina
+246,474800.0,Facundo Medina,Argentina
+247,491693.0,Nehuen Perez,Argentina
+248,491693.0,Nehuen Perez,Argentina
+249,373373.0,Lucas Martinez Quarta,Argentina
+250,469781.0,Marcos Senesi,Argentina
+251,,Walter Kannemann,Argentina
+252,,Rodrigo De Paul,Argentina
+253,166237.0,Leandro Paredes,Argentina
+254,348795.0,Giovani Lo Celso,Argentina
+255,534033.0,Alexis Mac Allister,Argentina
+256,,Guido Rodriguez,Argentina
+257,,Alejandro Gomez,Argentina
+258,,Enzo Fernandez,Argentina
+259,401578.0,Exequiel Palacios,Argentina
+260,,Thiago Almada,Argentina
+261,497291.0,Nicolas Dominguez,Argentina
+262,189441.0,Lucas Ocampos,Argentina
+263,28003.0,Lionel Messi,Argentina
+264,,Maximiliano Meza,Argentina
+265,406625.0,Lautaro Martinez,Argentina
+266,45320.0,Angel Di Maria,Argentina
+267,,Julian Alvarez,Argentina
+268,206050.0,Paulo Dybala,Argentina
+269,486031.0,Nicolas Gonzalez,Argentina
+270,266807.0,Angel Correa,Argentina
+271,227081.0,Joaquin Correa,Argentina
+272,282388.0,Giovanni Simeone,Argentina
+273,321247.0,Emiliano Buendia,Argentina
+274,193782.0,Lucas Alario,Argentina
+275,811779.0,Alejandro Garnacho,Argentina
+276,29559.0,Guillermo Ochoa,Mexico
+277,,Alfredo Talavera,Mexico
+278,,Rodolfo Cota,Mexico
+279,,Cesar Montes,Mexico
+280,,Nestor Araujo,Mexico
+281,,Jesus Angulo,Mexico
+282,51046.0,Hector Moreno,Mexico
+283,532937.0,Johan Vasquez,Mexico
+284,469718.0,Gerardo Arteaga,Mexico
+285,,Jesus Gallardo,Mexico
+286,,Jorge Sanchez,Mexico
+287,,Kevin Alvarez,Mexico
+288,401356.0,Edson Alvarez,Mexico
+289,122043.0,Hector Herrera,Mexico
+290,20506.0,Andres Guardado,Mexico
+291,,Erick Sanchez,Mexico
+292,,Carlos Rodriguez,Mexico
+293,,Luis Gerardo Chavez,Mexico
+294,,Luis Romo,Mexico
+295,298796.0,Erick Gutierrez,Mexico
+296,334042.0,Orbelin Pineda,Mexico
+297,,Alexis Vega,Mexico
+298,371174.0,Diego Lainez,Mexico
+299,,Roberto Alvarado,Mexico
+300,355998.0,Uriel Antuna,Mexico
+301,355998.0,Uriel Antuna,Mexico
+302,,Rogelio Funes Mori,Mexico
+303,206040.0,Raul Jimenez,Mexico
+304,,Henry Martin,Mexico
+305,316889.0,Hirving Lozano,Mexico
+306,,Jesus Manuel Corona,Mexico
+307,,Santiago Gimenez,Mexico
+308,,Wojciech Szczesny,Polonia
+309,,Bartlomiej Dragowski,Polonia
+310,,Lukasz Skorupski,Polonia
+311,,Jan Bednarek,Polonia
+312,,Kamil Glik,Polonia
+313,,Robert Gumny,Polonia
+314,,Artur Jedrzejczyk,Polonia
+315,,Jakub Kiwior,Polonia
+316,,Mateusz Wieteska,Polonia
+317,,Bartosz Bereszynski,Polonia
+318,,Matthew Cash,Polonia
+319,,Nicola Zalewski,Polonia
+320,,Krystian Bielik,Polonia
+321,,Przemyslaw Frankowski,Polonia
+322,,Kamil Grosicki,Polonia
+323,,Grzegorz Krychowiak,Polonia
+324,,Jakub Kaminski,Polonia
+325,,Michal Skoras,Polonia
+326,,Damian Szymanski,Polonia
+327,,Sebastian Szymanski,Polonia
+328,,Piotr Zielinski,Polonia
+329,,Szymon Zurkowski,Polonia
+330,,Robert Lewandowski,Polonia
+331,,Arkadiusz Milik,Polonia
+332,,Krzysztof Piatek,Polonia
+333,,Karol Swiderski,Polonia
+334,,Mohammed Al Rubaie,Saudi Arabia
+335,,Mohammed Al Owais,Saudi Arabia
+336,,Fawaz Al Qarni,Saudi Arabia
+337,,Amin Mohammedsaleh Ahmed Jan Al Bukhari,Saudi Arabia
+338,,Nawaf Dhahi Faisal Al Suweiti Al Aqidi,Saudi Arabia
+339,,Sultan Al Ghannam,Saudi Arabia
+340,,Abdullah Mohammed Musa Madu,Saudi Arabia
+341,,Abdulelah Al Amri,Saudi Arabia
+342,,Ali Al Bulaihi,Saudi Arabia
+343,,Mohammed Al Burayk,Saudi Arabia
+344,,Saud Abdullah Salim Abdulhamid,Saudi Arabia
+345,,Yasser Al Shahrani,Saudi Arabia
+346,,Hassan Al Tambakti,Saudi Arabia
+347,,Ahmed Mohammed Bamasud,Saudi Arabia
+348,,Salman Al Faraj,Saudi Arabia
+349,,Abdulelah Saad Hameed Al Malki,Saudi Arabia
+350,,Abdullah Otayf,Saudi Arabia
+351,,Ali Al Hassan,Saudi Arabia
+352,,Nawaf Shaker Al Abid,Saudi Arabia
+353,,Abdullah Al Hamdan,Saudi Arabia
+354,,Nasser Al Dawsari,Saudi Arabia
+355,,Ayman Yahya Salem Ahmed,Saudi Arabia
+356,,Mohammed Kanno,Saudi Arabia
+357,,Riyadh Mohammed Sharahili,Saudi Arabia
+358,,Firas Al Buraikan,Saudi Arabia
+359,195332.0,Salem Al Dawsari,Saudi Arabia
+360,,Saleh Al Shehri,Saudi Arabia
+361,,Sami Al Najei,Saudi Arabia
+362,,Fahad Mosaed Al Muwallad Al Harbi,Saudi Arabia
+363,,Abdulrahman Al Aboud,Saudi Arabia
+364,,Hattan Bahebri,Saudi Arabia
+365,,Haitham Mohammed Asiri,Saudi Arabia
+366,,Abdullah Hadi Radif,Saudi Arabia
+367,17965.0,Hugo Lloris,France
+368,120629.0,Alphonse Areola,France
+369,23951.0,Steve Mandanda,France
+370,281963.0,Lucas Hernandez,France
+371,339808.0,Theo Hernandez,France
+372,282041.0,Presnel Kimpembe,France
+373,357119.0,Ibrahima Konate,France
+374,411975.0,Jules Kounde,France
+375,353366.0,Benjamin Pavard,France
+376,495666.0,William Saliba,France
+377,344695.0,Dayot Upamecano,France
+378,164770.0,Raphael Varane,France
+379,640428.0,Eduardo Camavinga,France
+380,569598.0,Youssouf Fofana,France
+381,465830.0,Matteo Guendouzi,France
+382,182913.0,Adrien Rabiot,France
+383,413112.0,Aurelien Tchouameni,France
+384,164771.0,Jordan Veretout,France
+385,18922.0,Karim Benzema,France
+386,243714.0,Kingsley Coman,France
+387,288230.0,Ousmane Dembele,France
+388,82442.0,Olivier Giroud,France
+389,125781.0,Antoine Griezmann,France
+390,342229.0,Kylian Mbappe,France
+391,344381.0,Christopher Nkunku,France
+392,,Maty Ryan,Australia
+393,,Andrew Redmayne,Australia
+394,43113.0,Danny Vukovic,Australia
+395,,Milos Degenek,Australia
+396,136834.0,Aziz Behich,Australia
+397,616430.0,Joel King,Australia
+398,556038.0,Nathaniel Atkinson,Australia
+399,,Fran Karacic,Australia
+400,298091.0,Harry Souttar,Australia
+401,,Kye Rowles,Australia
+402,,Bailey Wright,Australia
+403,,Thomas Deng,Australia
+404,123951.0,Aaron Mooy,Australia
+405,192557.0,Jackson Irvine,Australia
+406,265625.0,Ajdin Hrustic,Australia
+407,,Keanu Baccus,Australia
+408,399162.0,Cameron Devlin,Australia
+409,,Riley McGree,Australia
+410,255729.0,Awer Mabil,Australia
+411,126214.0,Mathew Leckie,Australia
+412,140554.0,Martin Boyle,Australia
+413,,Jamie Maclaren,Australia
+414,,Jason Cummings,Australia
+415,,Mitchell Duke,Australia
+416,,Garang Kuol,Australia
+417,214798.0,Craig Goodwin,Australia
+418,16911.0,Kasper Schmeichel,Denmark
+419,471936.0,Oliver Christensen,Denmark
+420,,Frederik Ronnow,Denmark
+421,260827.0,Joachim Andersen,Denmark
+422,422951.0,Victor Nelsson,Denmark
+423,422951.0,Victor Nelsson,Denmark
+424,48859.0,Simon Kjaer,Denmark
+425,369674.0,Joakim Maehle,Denmark
+426,196948.0,Andreas Christensen,Denmark
+427,369684.0,Rasmus Kristensen,Denmark
+428,,Jens Larsen,Denmark
+429,319859.0,Mathias Jensen,Denmark
+430,91849.0,Thomas Delaney,Denmark
+431,69633.0,Christian Eriksen,Denmark
+432,540941.0,Mikkel Damsgaard,Denmark
+433,342389.0,Anders Dreyer,Denmark
+434,,Philip Billing,Denmark
+435,63463.0,Daniel Wass,Denmark
+436,148365.0,Casper Nielsen,Denmark
+437,452607.0,Alexander Bah,Denmark
+438,,Pierre Emile Hojbjerg,Denmark
+439,95732.0,Martin Braithwaite,Denmark
+440,,Skov Olsen,Denmark
+441,283196.0,Kasper Dolberg,Denmark
+442,513245.0,Jesper Lindstrom,Denmark
+443,513245.0,Jesper Lindstrom,Denmark
+444,610442.0,Rasmus Hojlund,Denmark
+445,,Mohamed Sedki Debchi,Tunisia
+446,,Aymen Dahmen,Tunisia
+447,,Bechir Ben Said,Tunisia
+448,,Bilel Ifa,Tunisia
+449,496706.0,Montassar Talbi,Tunisia
+450,,Ali El Abdi,Tunisia
+451,450417.0,Dylan Bronn,Tunisia
+452,,Ahmed Mortadha Ben Ouannes,Tunisia
+453,,Ali Maaloul,Tunisia
+454,578292.0,Omar Rekik,Tunisia
+455,192167.0,Mohamed Drager,Tunisia
+456,,Hamza Mathlouthi,Tunisia
+457,274373.0,Rami Kaib,Tunisia
+458,,Yan Valery,Tunisia
+459,,Nader Ghandri,Tunisia
+460,,Saif Eddine Khaoui,Tunisia
+461,,Ferjani Sassi,Tunisia
+462,607224.0,Hannibal Mejbri,Tunisia
+463,290587.0,Ellyes Skhiri,Tunisia
+464,,Ghaylene Chaalali,Tunisia
+465,184491.0,Naim Sliti,Tunisia
+466,,Chaim El Djebali,Tunisia
+467,233782.0,Aissa Laidouni,Tunisia
+468,,Sayfallah Ltaief,Tunisia
+469,,Youssef Msakni,Tunisia
+470,,Wahbi Khazri,Tunisia
+471,,Taha Yassine Khenissi,Tunisia
+472,,Seifeddine Jaziri,Tunisia
+473,,Anis Ben Slimane,Tunisia
+474,122635.0,Issam Jebali,Tunisia
+475,262396.0,Unai Simon,Spain
+476,403151.0,Robert Sanchez,Spain
+477,262749.0,David Raya,Spain
+478,192279.0,Kepa Arrizabalaga,Spain
+479,,Dani Carvajal,Spain
+480,,Cesar Azpilicueta,Spain
+481,15956.0,Jesus Navas,Spain
+482,399776.0,Pau Torres,Spain
+483,,Hugo Guiillamon,Spain
+484,246291.0,Diego Llorente,Spain
+485,158863.0,Inigo Martinez,Spain
+486,176553.0,Aymeric Laporte,Spain
+487,466794.0,Eric Garcia,Spain
+488,69751.0,Jordi Alba,Spain
+489,,Jose Luis Gaya,Spain
+490,193098.0,Alex Moreno,Spain
+491,,Alejandro Balde,Spain
+492,112515.0,Marcos Alonso,Spain
+493,25557.0,Sergio Ramos,Spain
+494,65230.0,Sergio Busquets,Spain
+495,,Rodrigo Hernandez,Spain
+496,683840.0,Pedri,Spain
+497,74229.0,Koke,Spain
+498,646740.0,Gavi,Spain
+499,372246.0,Carlos Soler,Spain
+500,282411.0,Marcos Llorente,Spain
+501,74230.0,Pablo Sarabia,Spain
+502,,Fabian Ruiz,Spain
+503,,Thiago Alcantara,Spain
+504,309110.0,Brais Mendez,Spain
+505,,Mikel Merino,Spain
+506,,Sergio Canales,Spain
+507,340376.0,Abel Ruiz,Spain
+508,,Rodrigo Moreno,Spain
+509,177467.0,Gerard Moreno,Spain
+510,278359.0,Borja Iglesias,Spain
+511,296622.0,Marco Asensio,Spain
+512,709187.0,Nico Williams,Spain
+513,,Alvaro Morata,Spain
+514,568157.0,Yeremy Pino,Spain
+515,398184.0,Ferran Torres,Spain
+516,293385.0,Dani Olmo,Spain
+517,72047.0,Iago Aspas,Spain
+518,466810.0,Ansu Fati,Spain
+519,,Mikel Oyarzabal,Spain
+520,79422.0,Keylor Navas,Costa Rica
+521,,Esteban Alvarado,Costa Rica
+522,,Patrick Sequeira,Costa Rica
+523,,Francisco Calvo,Costa Rica
+524,,Juan Pablo Vargas,Costa Rica
+525,,Kendall Watson,Costa Rica
+526,,Oscar Duarte ,Costa Rica
+527,,Daniel Chacon,Costa Rica
+528,,Keysher Fuller,Costa Rica
+529,,Carlos Martinez,Costa Rica
+530,124983.0,Bryan Oviedo,Costa Rica
+531,,Ronald Matarrita,Costa Rica
+532,,Yeltsin Tejeda ,Costa Rica
+533,,Celso Borges ,Costa Rica
+534,,Youstin Salas,Costa Rica
+535,,Roan Wilson ,Costa Rica
+536,,Gerson Torres ,Costa Rica
+537,,Douglas Lopez,Costa Rica
+538,,Jewison Bennette ,Costa Rica
+539,,Alvaro Zamora ,Costa Rica
+540,,Anthony Hernandez ,Costa Rica
+541,,Brandon Aguilera,Costa Rica
+542,,Bryan Ruiz ,Costa Rica
+543,,Joel Campbell ,Costa Rica
+544,,Anthony Contreras,Costa Rica
+545,,Johan Venegas,Costa Rica
+546,17259.0,Manuel Neuer,Germany
+547,,Marc Andre ter Stegen,Germany
+548,45672.0,Kevin Trapp,Germany
+549,124502.0,Matthias Ginter,Germany
+550,86202.0,Antonio Rudiger,Germany
+551,166601.0,Niklas Sule,Germany
+552,388198.0,Nico Schlotterbeck,Germany
+553,228948.0,Thilo Kehrer,Germany
+554,318204.0,David Raum,Germany
+555,215599.0,Lukas Klostermann,Germany
+556,467563.0,Armel Bella Kotchap,Germany
+557,93707.0,Christian Gunter,Germany
+558,53622.0,Ilkay Gundogan,Germany
+559,7161.0,Jonas Hofmann,Germany
+560,153084.0,Leon Goretzka,Germany
+561,159471.0,Serge Gnabry,Germany
+562,192565.0,Leroy Sane,Germany
+563,580195.0,Jamal Musiala,Germany
+564,161056.0,Joshua Kimmich,Germany
+565,58358.0,Thomas Muller,Germany
+566,187492.0,Julian Brandt,Germany
+567,74842.0,Mario Gotze,Germany
+568,309400.0,Kai Havertz,Germany
+569,467720.0,Youssoufa Moukoko,Germany
+570,75489.0,Niclas Fullkrug,Germany
+571,,Karim Adeyemi,Germany
+572,77383.0,Eiji Kawashima,Japan
+573,,Shuichi Gonda ,Japan
+574,,Daniel Yuji Yabuki Schmidt,Japan
+575,,Hiroki Sakai,Japan
+576,,Miki Yamane,Japan
+577,,Takehiro Tomiyasu ,Japan
+578,,Ko Itakura ,Japan
+579,,Maya Yoshida ,Japan
+580,,Shogo Taniguchi,Japan
+581,353892.0,Hiroki Ito,Japan
+582,,Yuto Nagatomo ,Japan
+583,,Yuta Nakayama ,Japan
+584,129693.0,Gaku Shibasaki,Japan
+585,146310.0,Wataru Endo,Japan
+586,524315.0,Hidemasa Morita,Japan
+587,356141.0,Daichi Kamada,Japan
+588,,Ao Tanaka,Japan
+589,,Takumi Minamino ,Japan
+590,348791.0,Junya Ito,Japan
+591,245744.0,Takuma Asano,Japan
+592,,Yuki Soma,Japan
+593,504849.0,Kaoru Mitoma,Japan
+594,420931.0,Daizen Maeda,Japan
+595,,Ritsu Doan ,Japan
+596,,Ayase Ueda,Japan
+597,405398.0,Takefusa Kubo,Japan
+598,108390.0,Thibaut Courtois,Belgium
+599,50219.0,Simon Mignolet,Belgium
+600,108880.0,Koen Casteels,Belgium
+601,43250.0,Jan Vertonghen,Belgium
+602,42710.0,Toby Alderweireld,Belgium
+603,168157.0,Leander Dendoncker,Belgium
+604,548193.0,Zeno Debast,Belgium
+605,368891.0,Arthur Theate,Belgium
+606,368891.0,Arthur Theate,Belgium
+607,292808.0,Wout Faes,Belgium
+608,137576.0,Hans Vanaken,Belgium
+609,35047.0,Axel Witsel,Belgium
+610,249565.0,Youri Tielemans,Belgium
+611,485706.0,Amadou Onana,Belgium
+612,88755.0,Kevin De Bruyne,Belgium
+613,140776.0,Yannick Carrasco,Belgium
+614,102226.0,Thorgan Hazard,Belgium
+615,262226.0,Timothy Castagne,Belgium
+616,100986.0,Thomas Meunier,Belgium
+617,96341.0,Romelu Lukaku,Belgium
+618,179184.0,Michy Batshuayi,Belgium
+619,368887.0,Lois Openda,Belgium
+620,368887.0,Lois Openda,Belgium
+621,435772.0,Charles De Ketelaere,Belgium
+622,50202.0,Eden Hazard,Belgium
+623,486049.0,Jeremy Doku,Belgium
+624,486049.0,Jeremy Doku,Belgium
+625,56416.0,Dries Mertens,Belgium
+626,144028.0,Leandro Trossard,Belgium
+627,,Dayne St. Clair,Canada
+628,,Maxime Crepeau,Canada
+629,67797.0,Milan Borjan,Canada
+630,,Alistair Johnston,Canada
+631,,Kamal Miller,Canada
+632,54716.0,Steven Vitoria,Canada
+633,,Derek Cornelius,Canada
+634,,Scott Kennedy,Canada
+635,,Joel Robert Waterman,Canada
+636,,Samuel Adekugbe,Canada
+637,,Samuel Piette,Canada
+638,512913.0,Stephen Eustaquio,Canada
+639,,Ismael Kenneth Jordan Kone,Canada
+640,58993.0,Junior Hoilett,Canada
+641,,Mark Anthony Kaye,Canada
+642,424204.0,Alphonso Davies,Canada
+643,,Richie Laryea,Canada
+644,,Luca Warrick Daeovie Koleosho,Canada
+645,,Lucas Cavallini,Canada
+646,638793.0,Tajon Buchanan,Canada
+647,339943.0,Ike Ugbo,Canada
+648,,Charles Andreas Brym,Canada
+649,343463.0,Cyle Larin,Canada
+650,533738.0,Jonathan David,Canada
+651,,Liam Alan Millar,Canada
+652,,Theodor Corbeanu,Canada
+653,,Bono,Morocco
+654,,Munir El Kajoui,Morocco
+655,,Ahmed Tagnaouti,Morocco
+656,361914.0,Nayef Aguerd,Morocco
+657,,Yahia Attiyat Allah,Morocco
+658,,Badr Benoun,Morocco
+659,,Achraf Dari,Morocco
+660,235412.0,Jawad El Yamiq,Morocco
+661,235412.0,Jawad El Yamiq,Morocco
+662,398073.0,Achraf Hakimi,Morocco
+663,340456.0,Noussair Mazraoui,Morocco
+664,204198.0,Romain Saiss,Morocco
+665,287579.0,Sofyan Amrabat,Morocco
+666,377219.0,Selim Amallah,Morocco
+667,,Bilal El Khannous,Morocco
+668,,Yahya Jabrane,Morocco
+669,593482.0,Azzedine Ounahi,Morocco
+670,,Abdelhamid Sabiri,Morocco
+671,393238.0,Zakaria Aboukhlal,Morocco
+672,232271.0,Sofiane Boufal,Morocco
+673,,Ilias Chair,Morocco
+674,,Walid Cheddira,Morocco
+675,,Youssef En Nesyri,Morocco
+676,,Abde Ezzalzouli,Morocco
+677,,Abderrazak Hamdallah,Morocco
+678,372711.0,Amine Harit,Morocco
+679,372711.0,Amine Harit,Morocco
+680,217111.0,Hakim Ziyech,Morocco
+681,,Dominik Livakovic,Croatia
+682,160482.0,Ivica Ivusic,Croatia
+683,226073.0,Ivo Grbic,Croatia
+684,46083.0,Domagoj Vida,Croatia
+685,37838.0,Dejan Lovren,Croatia
+686,39125.0,Borna Barisic,Croatia
+687,362977.0,Josip Juranovic,Croatia
+688,362977.0,Josip Juranovic,Croatia
+689,475959.0,Josko Gvardiol,Croatia
+690,293194.0,Borna Sosa,Croatia
+691,483046.0,Josip Stanisic,Croatia
+692,357003.0,Martin Erlic,Croatia
+693,,Josip Sutalo,Croatia
+694,27992.0,Luka Modric,Croatia
+695,51471.0,Mateo Kovacic,Croatia
+696,156617.0,Marcelo Brozovic,Croatia
+697,205938.0,Mario Pasalic,Croatia
+698,293200.0,Nikola Vlasic,Croatia
+699,387106.0,Lovro Majer,Croatia
+700,374954.0,Kristijan Jakic,Croatia
+701,,Luka Sucic,Croatia
+702,42460.0,Ivan Perisic,Croatia
+703,46580.0,Andrej Kramaric,Croatia
+704,256358.0,Bruno Petkovic,Croatia
+705,,Mislav Orsic,Croatia
+706,46413.0,Ante Budimir,Croatia
+707,95438.0,Marko Livaja,Croatia
+708,105470.0,Alisson,Brazil
+709,607854.0,Ederson,Brazil
+710,238223.0,Ederson,Brazil
+711,,Weverton,Brazil
+712,,Dani Alves,Brazil
+713,145707.0,Danilo,Brazil
+714,145707.0,Danilo,Brazil
+715,79960.0,Alex Sandro,Brazil
+716,255755.0,Alex Telles,Brazil
+717,516716.0,Bremer,Brazil
+718,401530.0,Eder Militao,Brazil
+719,181767.0,Marquinhos,Brazil
+720,29241.0,Thiago Silva,Brazil
+721,520624.0,Bruno Guimaraes,Brazil
+722,16306.0,Casemiro,Brazil
+723,,Everton Ribeiro,Brazil
+724,225693.0,Fabinho,Brazil
+725,191614.0,Fred,Brazil
+726,444523.0,Lucas Paqueta,Brazil
+727,798687.0,Antony,Brazil
+728,602105.0,Antony,Brazil
+729,363205.0,Gabriel Jesus,Brazil
+730,655488.0,Gabriel Martinelli,Brazil
+731,,Neymar,Brazil
+732,,Pedro,Brazil
+733,411295.0,Raphinha,Brazil
+734,378710.0,Richarlison,Brazil
+735,412363.0,Rodrygo,Brazil
+736,,Vinicius Junior,Brazil
+737,94308.0,Marko Dmitrovic,Serbia
+738,343953.0,Marko Ilic,Serbia
+739,,Vanja Milinkovic Savic,Serbia
+740,574671.0,Strahinja Pavlovic,Serbia
+741,,Srdan Babic,Serbia
+742,202228.0,Milos Veljkovic,Serbia
+743,143029.0,Stefan Mitrovic,Serbia
+744,,Strahinja Erakovic,Serbia
+745,343959.0,Erhan Masovic,Serbia
+746,168063.0,Filip Mladenovic,Serbia
+747,273152.0,Nemanja Maksimovic,Serbia
+748,245078.0,Nemanja Radonjic,Serbia
+749,,Uros Racic,Serbia
+750,470794.0,Ivan Ilic,Serbia
+751,74294.0,Nemanja Gudelj,Serbia
+752,36139.0,Dusan Tadic,Serbia
+753,206843.0,Andrija Zivkovic,Serbia
+754,245056.0,Sasa Lukic,Serbia
+755,161011.0,Filip Kostic,Serbia
+756,404260.0,Aleksa Terzic,Serbia
+757,,Sergej Milinkovic Savic,Serbia
+758,,Filip Duricic,Serbia
+759,70411.0,Darko Lazovic,Serbia
+760,51152.0,Aleksandar Mitrovic,Serbia
+761,257462.0,Luka Jovic,Serbia
+762,143029.0,Stefan Mitrovic,Serbia
+763,,Dusan Vlahovic,Serbia
+764,257814.0,Gregor Kobel,Switzerland
+765,42205.0,Yann Sommer,Switzerland
+766,247915.0,Jonas Omlin,Switzerland
+767,251322.0,Philipp Kohn,Switzerland
+768,284730.0,Manuel Akanji,Switzerland
+769,298583.0,Eray Comert,Switzerland
+770,192635.0,Nico Elvedi,Switzerland
+771,135343.0,Fabian Schar,Switzerland
+772,168989.0,Silvan Widmer,Switzerland
+773,86784.0,Ricardo Rodriguez,Switzerland
+774,247555.0,Edimilson Fernandes,Switzerland
+775,237658.0,Michel Aebischer,Switzerland
+776,86792.0,Xherdan Shaqiri,Switzerland
+777,194638.0,Renato Steffen,Switzerland
+778,111455.0,Granit Xhaka,Switzerland
+779,334526.0,Denis Zakaria,Switzerland
+780,52595.0,Fabian Frei,Switzerland
+781,148252.0,Remo Freuler,Switzerland
+782,,Noah Okafor,Switzerland
+783,,Fabian Rieder,Switzerland
+784,,Ardon Jashari,Switzerland
+785,237662.0,Breel Embolo,Switzerland
+786,345886.0,Ruben Vargas,Switzerland
+787,345886.0,Ruben Vargas,Switzerland
+788,212723.0,Djibril Sow,Switzerland
+789,109256.0,Haris Seferovic,Switzerland
+790,,Christian Fassnacht,Switzerland
+791,234509.0,Andre Onana,Cameroon
+792,170471.0,Devis Epassy,Cameroon
+793,,Simon Ngapandouetnbu,Cameroon
+794,,Jean Charles Castelletto,Cameroon
+795,342877.0,Enzo Ebosse,Cameroon
+796,250638.0,Collins Fai,Cameroon
+797,,Olivier Mbaizo,Cameroon
+798,,Nouhou Tolo,Cameroon
+799,,Nicolas Nkoulou,Cameroon
+800,572326.0,Christopher Wooh,Cameroon
+801,,Olivier Ntcham,Cameroon
+802,322309.0,Gael Ondoua,Cameroon
+803,398808.0,Martin Hongla,Cameroon
+804,,Pierre Kunde,Cameroon
+805,452238.0,Samuel Oum Gouet,Cameroon
+806,,Andre Frank Zambo Anguissa,Cameroon
+807,,Jerome Ngom,Cameroon
+808,,Nicolas Ngamaleu,Cameroon
+809,374281.0,Christian Bassogog,Cameroon
+810,,Bryan Mbeumo,Cameroon
+811,,Georges Kevin Nkoudou,Cameroon
+812,,Jean Pierre Nsame,Cameroon
+813,147487.0,Vincent Aboubakar,Cameroon
+814,315110.0,Karl Toko Ekambi,Cameroon
+815,,Eric Maxim Choupo Moting,Cameroon
+816,,Souaibou Marou,Cameroon
+817,357153.0,Diogo Costa,Portugal
+818,249994.0,Jose Sa,Portugal
+819,45026.0,Rui Patricio,Portugal
+820,357147.0,Diogo Dalot,Portugal
+821,182712.0,Joao Cancelo,Portugal
+822,141050.0,Danilo Pereira,Portugal
+823,14132.0,Pepe,Portugal
+824,258018.0,Pepe,Portugal
+825,258004.0,Ruben Dias,Portugal
+826,,Antonio Silva,Portugal
+827,616341.0,Nuno Mendes,Portugal
+828,170986.0,Raphael Guerreiro,Portugal
+829,,Joao Palhinha,Portugal
+830,225161.0,Ruben Neves,Portugal
+831,241641.0,Bernardo Silva,Portugal
+832,240306.0,Bruno Fernandes,Portugal
+833,537602.0,Joao Mario,Portugal
+834,149729.0,Joao Mario,Portugal
+835,601883.0,Matheus Nunes,Portugal
+836,487469.0,Vitinha,Portugal
+837,487469.0,Vitinha,Portugal
+838,586853.0,Vitinha,Portugal
+839,586853.0,Vitinha,Portugal
+840,100131.0,William Carvalho,Portugal
+841,231289.0,Otavio,Portugal
+842,8198.0,Cristiano Ronaldo,Portugal
+843,462250.0,Joao Felix,Portugal
+844,357164.0,Rafael Leao,Portugal
+845,261927.0,Ricardo Horta,Portugal
+846,550550.0,Goncalo Ramos,Portugal
+847,550550.0,Goncalo Ramos,Portugal
+848,198008.0,Andre Silva,Portugal
+849,,Richard Ofori Antwi,Ghana
+850,,Abdul Nurudeen,Ghana
+851,,Joseph Wollacott,Ghana
+852,,Tariq Lamptey,Ghana
+853,59641.0,Denis Odoi,Ghana
+854,,Mohamed Salisu,Ghana
+855,397171.0,Gideon Mensah,Ghana
+856,358250.0,Joseph Aidoo,Ghana
+857,,Abdul Baba,Ghana
+858,214056.0,Daniel Amartey,Ghana
+859,250844.0,Alexander Djiku,Ghana
+860,,Stephan Ambrosius,Ghana
+861,798404.0,Alidu Seidu,Ghana
+862,230784.0,Thomas Partey,Ghana
+863,395695.0,Elisha Owusu,Ghana
+864,,Daniel Kofi Kyereh,Ghana
+865,45403.0,Andre Ayew,Ghana
+866,543499.0,Mohammed Kudus,Ghana
+867,442805.0,Iddrisu Baba,Ghana
+868,746695.0,Kamaldeen Sulemana,Ghana
+869,,Issahaku Fatawu,Ghana
+870,108354.0,Jordan Ayew,Ghana
+871,,Osman Bukari,Ghana
+872,,Felix Afena Gyan,Ghana
+873,306382.0,Benjamin Tetteh,Ghana
+874,255508.0,Inaki Williams,Ghana
+875,,Ransford Konigsdorffer,Ghana
+876,,Antoine Semenyo,Ghana
+877,,Daniel Afriyie,Ghana
+878,58088.0,Fernando Muslera,Uruguay
+879,264014.0,Sergio Rochet,Uruguay
+880,,Sebastian Sosa,Uruguay
+881,250845.0,Jose Maria Gimenez,Uruguay
+882,102427.0,Sebastian Coates,Uruguay
+883,54928.0,Diego Godin,Uruguay
+884,54935.0,Martin Caceres,Uruguay
+885,480267.0,Ronald Araujo,Uruguay
+886,,Guillermo Varela,Uruguay
+887,,Jose Luis Rodriguez,Uruguay
+888,439072.0,Matias Vina,Uruguay
+889,376514.0,Mathias Olivera,Uruguay
+890,318077.0,Lucas Torreira,Uruguay
+891,476701.0,Manuel Ugarte,Uruguay
+892,143812.0,Matias Vecino,Uruguay
+893,354362.0,Rodrigo Bentancur,Uruguay
+894,369081.0,Federico Valverde,Uruguay
+895,676318.0,Facundo Pellistri,Uruguay
+896,,Agustin Canobbio,Uruguay
+897,,Facundo Torres,Uruguay
+898,,Nicolas De La Cruz,Uruguay
+899,,Giorgian De Arrascaeta,Uruguay
+900,44352.0,Luis Suarez,Uruguay
+901,48280.0,Edinson Cavani,Uruguay
+902,546543.0,Darwin Nunez,Uruguay
+903,,Maximiliano Gomez,Uruguay
+904,,Seung Gyu Kim,Korea Republic
+905,,Bum Keun Song,Korea Republic
+906,,Sung Yun Gu,Korea Republic
+907,,Hyeon Woo Jo,Korea Republic
+908,,Tae Hwan Kim,Korea Republic
+909,,Jin Su Kim,Korea Republic
+910,,Chul Hong,Korea Republic
+911,,Ji Soo Park,Korea Republic
+912,,Young Gwon Kim,Korea Republic
+913,,Kyung Won Kwon,Korea Republic
+914,,Moon Hwan Kim,Korea Republic
+915,,Jong Gyu Yoon,Korea Republic
+916,,Min Gyu Park,Korea Republic
+917,,Woo Young Jung,Korea Republic
+918,,Seung Ho Paik,Korea Republic
+919,,Jun Ho Son,Korea Republic
+920,,Min Kyu Song,Korea Republic
+921,,Yu Min Cho,Korea Republic
+922,,Sang Ho Na,Korea Republic
+923,,Hyun Jun Yang,Korea Republic
+924,,Jin Kyu Kim,Korea Republic
+925,,Chang Hoon Kwon,Korea Republic
+926,,Seung Beom Ko,Korea Republic
+927,,Won Sang Um,Korea Republic
+928,,Heung Min Son,Korea Republic
+929,,Gue Sung Cho,Korea Republic

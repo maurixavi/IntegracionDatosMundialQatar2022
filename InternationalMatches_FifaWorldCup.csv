@@ -1,0 +1,963 @@
+,date,home_team,away_team,home_team_fifa_rank,away_team_fifa_rank,home_team_score,away_team_score,tournament,country,neutral_location,shoot_out,home_team_result,year,stage,win_conditions,worldcup_id
+385,1994-06-17,Germany,Bolivia,1.0,43.0,1.0,0.0,FIFA World Cup,USA,True,No,Win,1994,Group C, ,FIFAWorldCup1994
+386,1994-06-17,Spain,Korea Republic,5.0,37.0,2.0,2.0,FIFA World Cup,USA,True,No,Draw,1994,Group C, ,FIFAWorldCup1994
+387,1994-06-18,Colombia,Romania,17.0,7.0,1.0,3.0,FIFA World Cup,USA,True,No,Lose,1994,Group A, ,FIFAWorldCup1994
+388,1994-06-18,Italy,Republic of Ireland,4.0,14.0,0.0,1.0,FIFA World Cup,USA,True,No,Lose,1994,,,
+389,1994-06-18,USA,Switzerland,23.0,12.0,1.0,1.0,FIFA World Cup,USA,False,No,Draw,1994,Group A, ,FIFAWorldCup1994
+390,1994-06-19,Belgium,Morocco,27.0,28.0,1.0,0.0,FIFA World Cup,USA,True,No,Win,1994,Group F, ,FIFAWorldCup1994
+391,1994-06-19,Cameroon,Sweden,24.0,10.0,2.0,2.0,FIFA World Cup,USA,True,No,Draw,1994,Group B, ,FIFAWorldCup1994
+392,1994-06-19,Norway,Mexico,6.0,16.0,1.0,0.0,FIFA World Cup,USA,True,No,Win,1994,Group E, ,FIFAWorldCup1994
+393,1994-06-20,Brazil,Russia,3.0,19.0,2.0,0.0,FIFA World Cup,USA,True,No,Win,1994,Group B, ,FIFAWorldCup1994
+394,1994-06-20,Netherlands,Saudi Arabia,2.0,34.0,2.0,1.0,FIFA World Cup,USA,True,No,Win,1994,Group F, ,FIFAWorldCup1994
+395,1994-06-21,Argentina,Greece,8.0,31.0,4.0,0.0,FIFA World Cup,USA,True,No,Win,1994,Group D, ,FIFAWorldCup1994
+396,1994-06-21,Germany,Spain,1.0,5.0,1.0,1.0,FIFA World Cup,USA,True,No,Draw,1994,Group C, ,FIFAWorldCup1994
+397,1994-06-21,Nigeria,Bulgaria,11.0,29.0,3.0,0.0,FIFA World Cup,USA,True,No,Win,1994,Group D, ,FIFAWorldCup1994
+398,1994-06-22,Romania,Switzerland,7.0,12.0,1.0,4.0,FIFA World Cup,USA,True,No,Lose,1994,Group A, ,FIFAWorldCup1994
+399,1994-06-22,USA,Colombia,23.0,17.0,2.0,1.0,FIFA World Cup,USA,False,No,Win,1994,Group A, ,FIFAWorldCup1994
+400,1994-06-23,Italy,Norway,4.0,6.0,1.0,0.0,FIFA World Cup,USA,True,No,Win,1994,Group E, ,FIFAWorldCup1994
+401,1994-06-23,Korea Republic,Bolivia,37.0,43.0,0.0,0.0,FIFA World Cup,USA,True,No,Draw,1994,Group C, ,FIFAWorldCup1994
+402,1994-06-24,Brazil,Cameroon,3.0,24.0,3.0,0.0,FIFA World Cup,USA,True,No,Win,1994,Group B, ,FIFAWorldCup1994
+403,1994-06-24,Mexico,Republic of Ireland,16.0,14.0,2.0,1.0,FIFA World Cup,USA,True,No,Win,1994,,,
+404,1994-06-24,Sweden,Russia,10.0,19.0,3.0,1.0,FIFA World Cup,USA,True,No,Win,1994,Group B, ,FIFAWorldCup1994
+405,1994-06-25,Argentina,Nigeria,8.0,11.0,2.0,1.0,FIFA World Cup,USA,True,No,Win,1994,Group D, ,FIFAWorldCup1994
+406,1994-06-25,Belgium,Netherlands,27.0,2.0,1.0,0.0,FIFA World Cup,USA,True,No,Win,1994,Group F, ,FIFAWorldCup1994
+407,1994-06-25,Saudi Arabia,Morocco,34.0,28.0,2.0,1.0,FIFA World Cup,USA,True,No,Win,1994,Group F, ,FIFAWorldCup1994
+408,1994-06-26,Bulgaria,Greece,29.0,31.0,4.0,0.0,FIFA World Cup,USA,True,No,Win,1994,Group D, ,FIFAWorldCup1994
+410,1994-06-26,Switzerland,Colombia,12.0,17.0,0.0,2.0,FIFA World Cup,USA,True,No,Lose,1994,Group A, ,FIFAWorldCup1994
+411,1994-06-26,USA,Romania,23.0,7.0,0.0,1.0,FIFA World Cup,USA,False,No,Lose,1994,Group A, ,FIFAWorldCup1994
+412,1994-06-27,Bolivia,Spain,43.0,5.0,1.0,3.0,FIFA World Cup,USA,True,No,Lose,1994,Group C, ,FIFAWorldCup1994
+413,1994-06-27,Germany,Korea Republic,1.0,37.0,3.0,2.0,FIFA World Cup,USA,True,No,Win,1994,Group C, ,FIFAWorldCup1994
+414,1994-06-28,Brazil,Sweden,3.0,10.0,1.0,1.0,FIFA World Cup,USA,True,No,Draw,1994,Group B, ,FIFAWorldCup1994
+415,1994-06-28,Republic of Ireland,Norway,14.0,6.0,0.0,0.0,FIFA World Cup,USA,True,No,Draw,1994,,,
+416,1994-06-28,Italy,Mexico,4.0,16.0,1.0,1.0,FIFA World Cup,USA,True,No,Draw,1994,Group E, ,FIFAWorldCup1994
+417,1994-06-28,Russia,Cameroon,19.0,24.0,6.0,1.0,FIFA World Cup,USA,True,No,Win,1994,Group B, ,FIFAWorldCup1994
+418,1994-06-29,Belgium,Saudi Arabia,27.0,34.0,0.0,1.0,FIFA World Cup,USA,True,No,Lose,1994,Group F, ,FIFAWorldCup1994
+419,1994-06-29,Morocco,Netherlands,28.0,2.0,1.0,2.0,FIFA World Cup,USA,True,No,Lose,1994,Group F, ,FIFAWorldCup1994
+420,1994-06-30,Argentina,Bulgaria,8.0,29.0,0.0,2.0,FIFA World Cup,USA,True,No,Lose,1994,Group D, ,FIFAWorldCup1994
+421,1994-06-30,Greece,Nigeria,31.0,11.0,0.0,2.0,FIFA World Cup,USA,True,No,Lose,1994,Group D, ,FIFAWorldCup1994
+423,1994-07-02,Germany,Belgium,1.0,27.0,3.0,2.0,FIFA World Cup,USA,True,No,Win,1994,Round of 16, ,FIFAWorldCup1994
+424,1994-07-02,Spain,Switzerland,5.0,12.0,3.0,0.0,FIFA World Cup,USA,True,No,Win,1994,Round of 16, ,FIFAWorldCup1994
+425,1994-07-03,Romania,Argentina,7.0,8.0,3.0,2.0,FIFA World Cup,USA,True,No,Win,1994,Round of 16, ,FIFAWorldCup1994
+426,1994-07-03,Saudi Arabia,Sweden,34.0,10.0,1.0,3.0,FIFA World Cup,USA,True,No,Lose,1994,Round of 16, ,FIFAWorldCup1994
+427,1994-07-04,Netherlands,Republic of Ireland,2.0,14.0,2.0,0.0,FIFA World Cup,USA,True,No,Win,1994,,,
+428,1994-07-04,USA,Brazil,23.0,3.0,0.0,1.0,FIFA World Cup,USA,False,No,Lose,1994,,,
+429,1994-07-05,Mexico,Bulgaria,16.0,29.0,1.0,1.0,FIFA World Cup,USA,True,Yes,Lose,1994,Round of 16,Bulgaria win on penalties (1 - 3) ,FIFAWorldCup1994
+430,1994-07-05,Nigeria,Italy,11.0,4.0,1.0,2.0,FIFA World Cup,USA,True,No,Lose,1994,Round of 16,Italy win after extra time ,FIFAWorldCup1994
+435,1994-07-09,Italy,Spain,4.0,5.0,2.0,1.0,FIFA World Cup,USA,True,No,Win,1994,Quarter-finals, ,FIFAWorldCup1994
+436,1994-07-09,Netherlands,Brazil,2.0,3.0,2.0,3.0,FIFA World Cup,USA,True,No,Lose,1994,Quarter-finals, ,FIFAWorldCup1994
+437,1994-07-10,Bulgaria,Germany,29.0,1.0,2.0,1.0,FIFA World Cup,USA,True,No,Win,1994,Quarter-finals, ,FIFAWorldCup1994
+438,1994-07-10,Romania,Sweden,7.0,10.0,2.0,2.0,FIFA World Cup,USA,True,Yes,Lose,1994,Quarter-finals,Sweden win on penalties (4 - 5) ,FIFAWorldCup1994
+439,1994-07-13,Bulgaria,Italy,29.0,4.0,1.0,2.0,FIFA World Cup,USA,True,No,Lose,1994,Semi-finals, ,FIFAWorldCup1994
+440,1994-07-13,Sweden,Brazil,10.0,3.0,0.0,1.0,FIFA World Cup,USA,True,No,Lose,1994,Semi-finals, ,FIFAWorldCup1994
+443,1994-07-16,Sweden,Bulgaria,10.0,29.0,4.0,0.0,FIFA World Cup,USA,True,No,Win,1994,Match for third place, ,FIFAWorldCup1994
+444,1994-07-17,Brazil,Italy,3.0,4.0,0.0,0.0,FIFA World Cup,USA,True,Yes,Win,1994,Final,Brazil win on penalties (3 - 2) ,FIFAWorldCup1994
+3078,1998-06-10,Brazil,Scotland,1.0,41.0,2.0,1.0,FIFA World Cup,France,True,No,Win,1998,Group A, ,FIFAWorldCup1998
+3079,1998-06-10,Morocco,Norway,13.0,7.0,2.0,2.0,FIFA World Cup,France,True,No,Draw,1998,Group A, ,FIFAWorldCup1998
+3080,1998-06-11,Cameroon,Austria,49.0,31.0,1.0,1.0,FIFA World Cup,France,True,No,Draw,1998,Group B, ,FIFAWorldCup1998
+3081,1998-06-11,Italy,Chile,14.0,9.0,2.0,2.0,FIFA World Cup,France,True,No,Draw,1998,Group B, ,FIFAWorldCup1998
+3082,1998-06-12,France,South Africa,18.0,24.0,3.0,0.0,FIFA World Cup,France,False,No,Win,1998,Group C, ,FIFAWorldCup1998
+3083,1998-06-12,Paraguay,Bulgaria,29.0,35.0,0.0,0.0,FIFA World Cup,France,True,No,Draw,1998,Group D, ,FIFAWorldCup1998
+3084,1998-06-12,Saudi Arabia,Denmark,34.0,27.0,0.0,1.0,FIFA World Cup,France,True,No,Lose,1998,Group C, ,FIFAWorldCup1998
+3085,1998-06-13,Korea Republic,Mexico,20.0,4.0,1.0,3.0,FIFA World Cup,France,True,No,Lose,1998,Group E, ,FIFAWorldCup1998
+3086,1998-06-13,Netherlands,Belgium,25.0,36.0,0.0,0.0,FIFA World Cup,France,True,No,Draw,1998,Group E, ,FIFAWorldCup1998
+3088,1998-06-13,Spain,Nigeria,15.0,74.0,2.0,3.0,FIFA World Cup,France,True,No,Lose,1998,Group D, ,FIFAWorldCup1998
+3089,1998-06-14,Argentina,Japan,6.0,12.0,1.0,0.0,FIFA World Cup,France,True,No,Win,1998,Group H, ,FIFAWorldCup1998
+3090,1998-06-14,Jamaica,Croatia,30.0,19.0,1.0,3.0,FIFA World Cup,France,True,No,Lose,1998,Group H, ,FIFAWorldCup1998
+3091,1998-06-15,England,Tunisia,5.0,21.0,2.0,0.0,FIFA World Cup,France,True,No,Win,1998,Group G, ,FIFAWorldCup1998
+3092,1998-06-15,Germany,USA,2.0,11.0,2.0,0.0,FIFA World Cup,France,True,No,Win,1998,Group F, ,FIFAWorldCup1998
+3093,1998-06-15,Romania,Colombia,22.0,10.0,1.0,0.0,FIFA World Cup,France,True,No,Win,1998,Group G, ,FIFAWorldCup1998
+3094,1998-06-16,Brazil,Morocco,1.0,13.0,3.0,0.0,FIFA World Cup,France,True,No,Win,1998,Group A, ,FIFAWorldCup1998
+3095,1998-06-16,Scotland,Norway,41.0,7.0,1.0,1.0,FIFA World Cup,France,True,No,Draw,1998,Group A, ,FIFAWorldCup1998
+3096,1998-06-17,Chile,Austria,9.0,31.0,1.0,1.0,FIFA World Cup,France,True,No,Draw,1998,Group B, ,FIFAWorldCup1998
+3097,1998-06-17,Italy,Cameroon,14.0,49.0,3.0,0.0,FIFA World Cup,France,True,No,Win,1998,Group B, ,FIFAWorldCup1998
+3098,1998-06-18,France,Saudi Arabia,18.0,34.0,4.0,0.0,FIFA World Cup,France,False,No,Win,1998,Group C, ,FIFAWorldCup1998
+3099,1998-06-18,South Africa,Denmark,24.0,27.0,1.0,1.0,FIFA World Cup,France,True,No,Draw,1998,Group C, ,FIFAWorldCup1998
+3100,1998-06-19,Nigeria,Bulgaria,74.0,35.0,1.0,0.0,FIFA World Cup,France,True,No,Win,1998,Group D, ,FIFAWorldCup1998
+3101,1998-06-19,Spain,Paraguay,15.0,29.0,0.0,0.0,FIFA World Cup,France,True,No,Draw,1998,Group D, ,FIFAWorldCup1998
+3102,1998-06-20,Belgium,Mexico,36.0,4.0,2.0,2.0,FIFA World Cup,France,True,No,Draw,1998,Group E, ,FIFAWorldCup1998
+3103,1998-06-20,Japan,Croatia,12.0,19.0,0.0,1.0,FIFA World Cup,France,True,No,Lose,1998,Group H, ,FIFAWorldCup1998
+3104,1998-06-20,Netherlands,Korea Republic,25.0,20.0,5.0,0.0,FIFA World Cup,France,True,No,Win,1998,Group E, ,FIFAWorldCup1998
+3105,1998-06-21,Argentina,Jamaica,6.0,30.0,5.0,0.0,FIFA World Cup,France,True,No,Win,1998,Group H, ,FIFAWorldCup1998
+3106,1998-06-21,USA,IR Iran,11.0,42.0,1.0,2.0,FIFA World Cup,France,True,No,Lose,1998,,,
+3107,1998-06-22,Colombia,Tunisia,10.0,21.0,1.0,0.0,FIFA World Cup,France,True,No,Win,1998,Group G, ,FIFAWorldCup1998
+3109,1998-06-22,Romania,England,22.0,5.0,2.0,1.0,FIFA World Cup,France,True,No,Win,1998,Group G, ,FIFAWorldCup1998
+3110,1998-06-23,Brazil,Norway,1.0,7.0,1.0,2.0,FIFA World Cup,France,True,No,Lose,1998,Group A, ,FIFAWorldCup1998
+3111,1998-06-23,Chile,Cameroon,9.0,49.0,1.0,1.0,FIFA World Cup,France,True,No,Draw,1998,Group B, ,FIFAWorldCup1998
+3112,1998-06-23,Italy,Austria,14.0,31.0,2.0,1.0,FIFA World Cup,France,True,No,Win,1998,Group B, ,FIFAWorldCup1998
+3113,1998-06-23,Scotland,Morocco,41.0,13.0,0.0,3.0,FIFA World Cup,France,True,No,Lose,1998,Group A, ,FIFAWorldCup1998
+3115,1998-06-24,France,Denmark,18.0,27.0,2.0,1.0,FIFA World Cup,France,False,No,Win,1998,Group C, ,FIFAWorldCup1998
+3116,1998-06-24,Nigeria,Paraguay,74.0,29.0,1.0,3.0,FIFA World Cup,France,True,No,Lose,1998,Group D, ,FIFAWorldCup1998
+3117,1998-06-24,South Africa,Saudi Arabia,24.0,34.0,2.0,2.0,FIFA World Cup,France,True,No,Draw,1998,Group C, ,FIFAWorldCup1998
+3118,1998-06-24,Spain,Bulgaria,15.0,35.0,6.0,1.0,FIFA World Cup,France,True,No,Win,1998,Group D, ,FIFAWorldCup1998
+3119,1998-06-25,Belgium,Korea Republic,36.0,20.0,1.0,1.0,FIFA World Cup,France,True,No,Draw,1998,Group E, ,FIFAWorldCup1998
+3121,1998-06-25,Germany,IR Iran,2.0,42.0,2.0,0.0,FIFA World Cup,France,True,No,Win,1998,,,
+3122,1998-06-25,Netherlands,Mexico,25.0,4.0,2.0,2.0,FIFA World Cup,France,True,No,Draw,1998,Group E, ,FIFAWorldCup1998
+3123,1998-06-26,Argentina,Croatia,6.0,19.0,1.0,0.0,FIFA World Cup,France,True,No,Win,1998,Group H, ,FIFAWorldCup1998
+3125,1998-06-26,Colombia,England,10.0,5.0,0.0,2.0,FIFA World Cup,France,True,No,Lose,1998,Group G, ,FIFAWorldCup1998
+3126,1998-06-26,Japan,Jamaica,12.0,30.0,1.0,2.0,FIFA World Cup,France,True,No,Lose,1998,Group H, ,FIFAWorldCup1998
+3128,1998-06-26,Romania,Tunisia,22.0,21.0,1.0,1.0,FIFA World Cup,France,True,No,Draw,1998,Group G, ,FIFAWorldCup1998
+3129,1998-06-27,Brazil,Chile,1.0,9.0,4.0,1.0,FIFA World Cup,France,True,No,Win,1998,Round of 16, ,FIFAWorldCup1998
+3130,1998-06-27,Italy,Norway,14.0,7.0,1.0,0.0,FIFA World Cup,France,True,No,Win,1998,Round of 16, ,FIFAWorldCup1998
+3133,1998-06-28,France,Paraguay,18.0,29.0,1.0,0.0,FIFA World Cup,France,False,No,Win,1998,Round of 16,France win after extra time ,FIFAWorldCup1998
+3134,1998-06-28,Nigeria,Denmark,74.0,27.0,1.0,4.0,FIFA World Cup,France,True,No,Lose,1998,Round of 16, ,FIFAWorldCup1998
+3135,1998-06-29,Germany,Mexico,2.0,4.0,2.0,1.0,FIFA World Cup,France,True,No,Win,1998,Round of 16, ,FIFAWorldCup1998
+3137,1998-06-30,Argentina,England,6.0,5.0,2.0,2.0,FIFA World Cup,France,True,Yes,Win,1998,Round of 16,Argentina win on penalties (4 - 3) ,FIFAWorldCup1998
+3138,1998-06-30,Romania,Croatia,22.0,19.0,0.0,1.0,FIFA World Cup,France,True,No,Lose,1998,Round of 16, ,FIFAWorldCup1998
+3140,1998-07-03,Brazil,Denmark,1.0,27.0,3.0,2.0,FIFA World Cup,France,True,No,Win,1998,Quarter-finals, ,FIFAWorldCup1998
+3141,1998-07-03,France,Italy,18.0,14.0,0.0,0.0,FIFA World Cup,France,False,Yes,Win,1998,,,
+3142,1998-07-04,Germany,Croatia,2.0,19.0,0.0,3.0,FIFA World Cup,France,True,No,Lose,1998,Quarter-finals, ,FIFAWorldCup1998
+3143,1998-07-04,Netherlands,Argentina,25.0,6.0,2.0,1.0,FIFA World Cup,France,True,No,Win,1998,Quarter-finals, ,FIFAWorldCup1998
+3147,1998-07-07,Brazil,Netherlands,1.0,25.0,1.0,1.0,FIFA World Cup,France,True,Yes,Win,1998,Semi-finals,Brazil win on penalties (4 - 2) ,FIFAWorldCup1998
+3148,1998-07-08,France,Croatia,18.0,19.0,2.0,1.0,FIFA World Cup,France,False,No,Win,1998,Semi-finals, ,FIFAWorldCup1998
+3152,1998-07-11,Netherlands,Croatia,25.0,19.0,1.0,2.0,FIFA World Cup,France,True,No,Lose,1998,Match for third place, ,FIFAWorldCup1998
+3153,1998-07-12,France,Brazil,18.0,1.0,3.0,0.0,FIFA World Cup,France,False,No,Win,1998,,,
+6341,2002-05-31,France,Senegal,1.0,42.0,0.0,1.0,FIFA World Cup,Korea Republic,True,No,Lose,2002,Group A, ,FIFAWorldCup2002
+6342,2002-06-01,Germany,Saudi Arabia,11.0,34.0,8.0,0.0,FIFA World Cup,Japan,True,No,Win,2002,Group E, ,FIFAWorldCup2002
+6343,2002-06-01,Republic of Ireland,Cameroon,15.0,17.0,1.0,1.0,FIFA World Cup,Japan,True,No,Draw,2002,,,
+6344,2002-06-01,Uruguay,Denmark,24.0,20.0,1.0,2.0,FIFA World Cup,Korea Republic,True,No,Lose,2002,Group A, ,FIFAWorldCup2002
+6345,2002-06-02,Argentina,Nigeria,3.0,27.0,1.0,0.0,FIFA World Cup,Japan,True,No,Win,2002,Group F, ,FIFAWorldCup2002
+6346,2002-06-02,England,Sweden,12.0,19.0,1.0,1.0,FIFA World Cup,Japan,True,No,Draw,2002,Group F, ,FIFAWorldCup2002
+6347,2002-06-02,Paraguay,South Africa,18.0,37.0,2.0,2.0,FIFA World Cup,Korea Republic,True,No,Draw,2002,Group B, ,FIFAWorldCup2002
+6348,2002-06-02,Spain,Slovenia,8.0,25.0,3.0,1.0,FIFA World Cup,Korea Republic,True,No,Win,2002,Group B, ,FIFAWorldCup2002
+6349,2002-06-03,Brazil,Turkey,2.0,22.0,2.0,1.0,FIFA World Cup,Korea Republic,True,No,Win,2002,,,
+6350,2002-06-03,Croatia,Mexico,21.0,7.0,0.0,1.0,FIFA World Cup,Japan,True,No,Lose,2002,Group G, ,FIFAWorldCup2002
+6351,2002-06-03,Italy,Ecuador,6.0,36.0,2.0,0.0,FIFA World Cup,Japan,True,No,Win,2002,Group G, ,FIFAWorldCup2002
+6352,2002-06-04,China PR,Costa Rica,50.0,29.0,0.0,2.0,FIFA World Cup,Korea Republic,True,No,Lose,2002,,,
+6353,2002-06-04,Japan,Belgium,32.0,23.0,2.0,2.0,FIFA World Cup,Japan,False,No,Draw,2002,,,
+6354,2002-06-04,Korea Republic,Poland,40.0,38.0,2.0,0.0,FIFA World Cup,Korea Republic,False,No,Win,2002,Group D, ,FIFAWorldCup2002
+6355,2002-06-05,Germany,Republic of Ireland,11.0,15.0,1.0,1.0,FIFA World Cup,Japan,True,No,Draw,2002,,,
+6356,2002-06-05,Russia,Tunisia,28.0,31.0,2.0,0.0,FIFA World Cup,Japan,True,No,Win,2002,Group H, ,FIFAWorldCup2002
+6357,2002-06-05,USA,Portugal,13.0,5.0,3.0,2.0,FIFA World Cup,Korea Republic,True,No,Win,2002,Group D, ,FIFAWorldCup2002
+6358,2002-06-06,Cameroon,Saudi Arabia,17.0,34.0,1.0,0.0,FIFA World Cup,Japan,True,No,Win,2002,Group E, ,FIFAWorldCup2002
+6359,2002-06-06,Denmark,Senegal,20.0,42.0,1.0,1.0,FIFA World Cup,Korea Republic,True,No,Draw,2002,Group A, ,FIFAWorldCup2002
+6360,2002-06-06,France,Uruguay,1.0,24.0,0.0,0.0,FIFA World Cup,Korea Republic,True,No,Draw,2002,Group A, ,FIFAWorldCup2002
+6362,2002-06-07,Argentina,England,3.0,12.0,0.0,1.0,FIFA World Cup,Japan,True,No,Lose,2002,Group F, ,FIFAWorldCup2002
+6363,2002-06-07,Spain,Paraguay,8.0,18.0,3.0,1.0,FIFA World Cup,Korea Republic,True,No,Win,2002,,,
+6364,2002-06-07,Sweden,Nigeria,19.0,27.0,2.0,1.0,FIFA World Cup,Japan,True,No,Win,2002,Group F, ,FIFAWorldCup2002
+6365,2002-06-08,Brazil,China PR,2.0,50.0,4.0,0.0,FIFA World Cup,Korea Republic,True,No,Win,2002,Group C, ,FIFAWorldCup2002
+6366,2002-06-08,Italy,Croatia,6.0,21.0,1.0,2.0,FIFA World Cup,Japan,True,No,Lose,2002,,,
+6368,2002-06-08,South Africa,Slovenia,37.0,25.0,1.0,0.0,FIFA World Cup,Korea Republic,True,No,Win,2002,Group B, ,FIFAWorldCup2002
+6369,2002-06-09,Costa Rica,Turkey,29.0,22.0,1.0,1.0,FIFA World Cup,Korea Republic,True,No,Draw,2002,Group C, ,FIFAWorldCup2002
+6370,2002-06-09,Japan,Russia,32.0,28.0,1.0,0.0,FIFA World Cup,Japan,False,No,Win,2002,Group H, ,FIFAWorldCup2002
+6372,2002-06-09,Mexico,Ecuador,7.0,36.0,2.0,1.0,FIFA World Cup,Japan,True,No,Win,2002,Group G, ,FIFAWorldCup2002
+6373,2002-06-10,Korea Republic,USA,40.0,13.0,1.0,1.0,FIFA World Cup,Korea Republic,False,No,Draw,2002,Group D, ,FIFAWorldCup2002
+6374,2002-06-10,Portugal,Poland,5.0,38.0,4.0,0.0,FIFA World Cup,Korea Republic,True,No,Win,2002,Group D, ,FIFAWorldCup2002
+6375,2002-06-10,Tunisia,Belgium,31.0,23.0,1.0,1.0,FIFA World Cup,Japan,True,No,Draw,2002,Group H, ,FIFAWorldCup2002
+6376,2002-06-11,Cameroon,Germany,17.0,11.0,0.0,2.0,FIFA World Cup,Japan,True,No,Lose,2002,Group E, ,FIFAWorldCup2002
+6377,2002-06-11,Denmark,France,20.0,1.0,2.0,0.0,FIFA World Cup,Korea Republic,True,No,Win,2002,Group A, ,FIFAWorldCup2002
+6378,2002-06-11,Saudi Arabia,Republic of Ireland,34.0,15.0,0.0,3.0,FIFA World Cup,Japan,True,No,Lose,2002,,,
+6379,2002-06-11,Senegal,Uruguay,42.0,24.0,3.0,3.0,FIFA World Cup,Korea Republic,True,No,Draw,2002,,,
+6380,2002-06-12,Nigeria,England,27.0,12.0,0.0,0.0,FIFA World Cup,Japan,True,No,Draw,2002,Group F, ,FIFAWorldCup2002
+6381,2002-06-12,Slovenia,Paraguay,25.0,18.0,1.0,3.0,FIFA World Cup,Korea Republic,True,No,Lose,2002,Group B, ,FIFAWorldCup2002
+6382,2002-06-12,South Africa,Spain,37.0,8.0,2.0,3.0,FIFA World Cup,Korea Republic,True,No,Lose,2002,Group B, ,FIFAWorldCup2002
+6383,2002-06-12,Sweden,Argentina,19.0,3.0,1.0,1.0,FIFA World Cup,Japan,True,No,Draw,2002,Group F, ,FIFAWorldCup2002
+6384,2002-06-13,Costa Rica,Brazil,29.0,2.0,2.0,5.0,FIFA World Cup,Korea Republic,True,No,Lose,2002,Group C, ,FIFAWorldCup2002
+6385,2002-06-13,Ecuador,Croatia,36.0,21.0,1.0,0.0,FIFA World Cup,Japan,True,No,Win,2002,Group G, ,FIFAWorldCup2002
+6386,2002-06-13,Mexico,Italy,7.0,6.0,1.0,1.0,FIFA World Cup,Japan,True,No,Draw,2002,Group G, ,FIFAWorldCup2002
+6387,2002-06-13,Turkey,China PR,22.0,50.0,3.0,0.0,FIFA World Cup,Korea Republic,True,No,Win,2002,Group C, ,FIFAWorldCup2002
+6388,2002-06-14,Belgium,Russia,23.0,28.0,3.0,2.0,FIFA World Cup,Japan,True,No,Win,2002,Group H, ,FIFAWorldCup2002
+6389,2002-06-14,Japan,Tunisia,32.0,31.0,2.0,0.0,FIFA World Cup,Japan,False,No,Win,2002,,,
+6390,2002-06-14,Korea Republic,Portugal,40.0,5.0,1.0,0.0,FIFA World Cup,Korea Republic,False,No,Win,2002,,,
+6391,2002-06-14,Poland,USA,38.0,13.0,3.0,1.0,FIFA World Cup,Korea Republic,True,No,Win,2002,Group D, ,FIFAWorldCup2002
+6392,2002-06-15,Denmark,England,20.0,12.0,0.0,3.0,FIFA World Cup,Japan,True,No,Lose,2002,Round of 16, ,FIFAWorldCup2002
+6393,2002-06-15,Germany,Paraguay,11.0,18.0,1.0,0.0,FIFA World Cup,Korea Republic,True,No,Win,2002,Round of 16, ,FIFAWorldCup2002
+6394,2002-06-16,Spain,Republic of Ireland,8.0,15.0,1.0,1.0,FIFA World Cup,Korea Republic,True,Yes,Win,2002,,,
+6395,2002-06-16,Sweden,Senegal,19.0,42.0,1.0,2.0,FIFA World Cup,Japan,True,No,Lose,2002,Round of 16,Win on Golden Goal ,FIFAWorldCup2002
+6396,2002-06-17,Brazil,Belgium,2.0,23.0,2.0,0.0,FIFA World Cup,Japan,True,No,Win,2002,Round of 16, ,FIFAWorldCup2002
+6397,2002-06-17,Mexico,USA,7.0,13.0,0.0,2.0,FIFA World Cup,Korea Republic,True,No,Lose,2002,,,
+6398,2002-06-18,Japan,Turkey,32.0,22.0,0.0,1.0,FIFA World Cup,Japan,False,No,Lose,2002,Round of 16, ,FIFAWorldCup2002
+6399,2002-06-18,Korea Republic,Italy,40.0,6.0,2.0,1.0,FIFA World Cup,Korea Republic,False,No,Win,2002,Round of 16,Win on Golden Goal ,FIFAWorldCup2002
+6400,2002-06-21,England,Brazil,12.0,2.0,1.0,2.0,FIFA World Cup,Japan,True,No,Lose,2002,Quarter-finals, ,FIFAWorldCup2002
+6401,2002-06-21,Germany,USA,11.0,13.0,1.0,0.0,FIFA World Cup,Korea Republic,True,No,Win,2002,Quarter-finals, ,FIFAWorldCup2002
+6403,2002-06-22,Korea Republic,Spain,40.0,8.0,0.0,0.0,FIFA World Cup,Korea Republic,False,Yes,Win,2002,,,
+6404,2002-06-22,Senegal,Turkey,42.0,22.0,0.0,1.0,FIFA World Cup,Japan,True,No,Lose,2002,Quarter-finals,Win on Golden Goal ,FIFAWorldCup2002
+6405,2002-06-25,Korea Republic,Germany,40.0,11.0,0.0,1.0,FIFA World Cup,Korea Republic,False,No,Lose,2002,,,
+6407,2002-06-26,Brazil,Turkey,2.0,22.0,1.0,0.0,FIFA World Cup,Japan,True,No,Win,2002,Semi-finals, ,FIFAWorldCup2002
+6408,2002-06-29,Korea Republic,Turkey,40.0,22.0,2.0,3.0,FIFA World Cup,Korea Republic,False,No,Lose,2002,Third place, ,FIFAWorldCup2002
+6410,2002-06-30,Germany,Brazil,11.0,2.0,0.0,2.0,FIFA World Cup,Japan,True,No,Lose,2002,Final, ,FIFAWorldCup2002
+9653,2006-06-09,Germany,Costa Rica,19.0,26.0,4.0,2.0,FIFA World Cup,Germany,False,No,Win,2006,Group A, ,FIFAWorldCup2006
+9654,2006-06-09,Poland,Ecuador,29.0,39.0,0.0,2.0,FIFA World Cup,Germany,True,No,Lose,2006,Group A, ,FIFAWorldCup2006
+9655,2006-06-10,Argentina,Cote d'Ivoire,9.0,32.0,2.0,1.0,FIFA World Cup,Germany,True,No,Win,2006,,,
+9656,2006-06-10,England,Paraguay,10.0,33.0,1.0,0.0,FIFA World Cup,Germany,True,No,Win,2006,Group B, ,FIFAWorldCup2006
+9657,2006-06-10,Trinidad and Tobago,Sweden,47.0,16.0,0.0,0.0,FIFA World Cup,Germany,True,No,Draw,2006,,,
+9658,2006-06-11,Angola,Portugal,57.0,7.0,0.0,1.0,FIFA World Cup,Germany,True,No,Lose,2006,Group D, ,FIFAWorldCup2006
+9659,2006-06-11,Mexico,IR Iran,4.0,23.0,3.0,1.0,FIFA World Cup,Germany,True,No,Win,2006,,,
+9660,2006-06-11,Serbia,Netherlands,47.0,3.0,0.0,1.0,FIFA World Cup,Germany,True,No,Lose,2006,,,
+9661,2006-06-12,Australia,Japan,42.0,18.0,3.0,1.0,FIFA World Cup,Germany,True,No,Win,2006,Group F, ,FIFAWorldCup2006
+9662,2006-06-12,Italy,Ghana,13.0,48.0,2.0,0.0,FIFA World Cup,Germany,True,No,Win,2006,Group E, ,FIFAWorldCup2006
+9663,2006-06-12,USA,Czech Republic,5.0,2.0,0.0,3.0,FIFA World Cup,Germany,True,No,Lose,2006,Group E, ,FIFAWorldCup2006
+9664,2006-06-13,Brazil,Croatia,1.0,23.0,1.0,0.0,FIFA World Cup,Germany,True,No,Win,2006,Group F, ,FIFAWorldCup2006
+9665,2006-06-13,France,Switzerland,8.0,35.0,0.0,0.0,FIFA World Cup,Germany,True,No,Draw,2006,Group G, ,FIFAWorldCup2006
+9666,2006-06-13,Korea Republic,Togo,29.0,61.0,2.0,1.0,FIFA World Cup,Germany,True,No,Win,2006,Group G, ,FIFAWorldCup2006
+9667,2006-06-14,Germany,Poland,19.0,29.0,1.0,0.0,FIFA World Cup,Germany,False,No,Win,2006,Group A, ,FIFAWorldCup2006
+9668,2006-06-14,Spain,Ukraine,5.0,45.0,4.0,0.0,FIFA World Cup,Germany,True,No,Win,2006,Group H, ,FIFAWorldCup2006
+9669,2006-06-14,Tunisia,Saudi Arabia,21.0,34.0,2.0,2.0,FIFA World Cup,Germany,True,No,Draw,2006,Group H, ,FIFAWorldCup2006
+9670,2006-06-15,Ecuador,Costa Rica,39.0,26.0,3.0,0.0,FIFA World Cup,Germany,True,No,Win,2006,Group A, ,FIFAWorldCup2006
+9671,2006-06-15,England,Trinidad and Tobago,10.0,47.0,2.0,0.0,FIFA World Cup,Germany,True,No,Win,2006,,,
+9672,2006-06-15,Sweden,Paraguay,16.0,33.0,1.0,0.0,FIFA World Cup,Germany,True,No,Win,2006,Group B, ,FIFAWorldCup2006
+9673,2006-06-16,Argentina,Serbia,9.0,47.0,6.0,0.0,FIFA World Cup,Germany,True,No,Win,2006,,,
+9674,2006-06-16,Mexico,Angola,4.0,57.0,0.0,0.0,FIFA World Cup,Germany,True,No,Draw,2006,Group D, ,FIFAWorldCup2006
+9675,2006-06-16,Netherlands,Cote d'Ivoire,3.0,32.0,2.0,1.0,FIFA World Cup,Germany,True,No,Win,2006,,,
+9676,2006-06-17,Czech Republic,Ghana,2.0,48.0,0.0,2.0,FIFA World Cup,Germany,True,No,Lose,2006,Group E, ,FIFAWorldCup2006
+9677,2006-06-17,Italy,USA,13.0,5.0,1.0,1.0,FIFA World Cup,Germany,True,No,Draw,2006,Group E, ,FIFAWorldCup2006
+9678,2006-06-17,Portugal,IR Iran,7.0,23.0,2.0,0.0,FIFA World Cup,Germany,True,No,Win,2006,Group D, ,FIFAWorldCup2006
+9679,2006-06-18,Brazil,Australia,1.0,42.0,2.0,0.0,FIFA World Cup,Germany,True,No,Win,2006,Group F, ,FIFAWorldCup2006
+9680,2006-06-18,France,Korea Republic,8.0,29.0,1.0,1.0,FIFA World Cup,Germany,True,No,Draw,2006,Group G, ,FIFAWorldCup2006
+9681,2006-06-18,Japan,Croatia,18.0,23.0,0.0,0.0,FIFA World Cup,Germany,True,No,Draw,2006,Group F, ,FIFAWorldCup2006
+9682,2006-06-19,Saudi Arabia,Ukraine,34.0,45.0,0.0,4.0,FIFA World Cup,Germany,True,No,Lose,2006,Group H, ,FIFAWorldCup2006
+9683,2006-06-19,Spain,Tunisia,5.0,21.0,3.0,1.0,FIFA World Cup,Germany,True,No,Win,2006,Group H, ,FIFAWorldCup2006
+9684,2006-06-19,Togo,Switzerland,61.0,35.0,0.0,2.0,FIFA World Cup,Germany,True,No,Lose,2006,Group G, ,FIFAWorldCup2006
+9685,2006-06-20,Costa Rica,Poland,26.0,29.0,1.0,2.0,FIFA World Cup,Germany,True,No,Lose,2006,Group A, ,FIFAWorldCup2006
+9686,2006-06-20,Germany,Ecuador,19.0,39.0,3.0,0.0,FIFA World Cup,Germany,False,No,Win,2006,,,
+9687,2006-06-20,Paraguay,Trinidad and Tobago,33.0,47.0,2.0,0.0,FIFA World Cup,Germany,True,No,Win,2006,,,
+9688,2006-06-20,Sweden,England,16.0,10.0,2.0,2.0,FIFA World Cup,Germany,True,No,Draw,2006,Group B, ,FIFAWorldCup2006
+9689,2006-06-21,IR Iran,Angola,23.0,57.0,1.0,1.0,FIFA World Cup,Germany,True,No,Draw,2006,,,
+9690,2006-06-21,Cote d'Ivoire,Serbia,32.0,47.0,3.0,2.0,FIFA World Cup,Germany,True,No,Win,2006,,,
+9691,2006-06-21,Netherlands,Argentina,3.0,9.0,0.0,0.0,FIFA World Cup,Germany,True,No,Draw,2006,Group C, ,FIFAWorldCup2006
+9692,2006-06-21,Portugal,Mexico,7.0,4.0,2.0,1.0,FIFA World Cup,Germany,True,No,Win,2006,Group D, ,FIFAWorldCup2006
+9693,2006-06-22,Croatia,Australia,23.0,42.0,2.0,2.0,FIFA World Cup,Germany,True,No,Draw,2006,Group F, ,FIFAWorldCup2006
+9694,2006-06-22,Czech Republic,Italy,2.0,13.0,0.0,2.0,FIFA World Cup,Germany,True,No,Lose,2006,Group E, ,FIFAWorldCup2006
+9695,2006-06-22,Ghana,USA,48.0,5.0,2.0,1.0,FIFA World Cup,Germany,True,No,Win,2006,Group E, ,FIFAWorldCup2006
+9696,2006-06-22,Japan,Brazil,18.0,1.0,1.0,4.0,FIFA World Cup,Germany,True,No,Lose,2006,Group F, ,FIFAWorldCup2006
+9697,2006-06-23,Saudi Arabia,Spain,34.0,5.0,0.0,1.0,FIFA World Cup,Germany,True,No,Lose,2006,Group H, ,FIFAWorldCup2006
+9698,2006-06-23,Switzerland,Korea Republic,35.0,29.0,2.0,0.0,FIFA World Cup,Germany,True,No,Win,2006,Group G, ,FIFAWorldCup2006
+9699,2006-06-23,Togo,France,61.0,8.0,0.0,2.0,FIFA World Cup,Germany,True,No,Lose,2006,Group G, ,FIFAWorldCup2006
+9700,2006-06-23,Ukraine,Tunisia,45.0,21.0,1.0,0.0,FIFA World Cup,Germany,True,No,Win,2006,Group H, ,FIFAWorldCup2006
+9701,2006-06-24,Argentina,Mexico,9.0,4.0,2.0,1.0,FIFA World Cup,Germany,True,No,Win,2006,Round of 16,Argentina win after extra time ,FIFAWorldCup2006
+9702,2006-06-24,Germany,Sweden,19.0,16.0,2.0,0.0,FIFA World Cup,Germany,False,No,Win,2006,Round of 16, ,FIFAWorldCup2006
+9705,2006-06-25,England,Ecuador,10.0,39.0,1.0,0.0,FIFA World Cup,Germany,True,No,Win,2006,Round of 16, ,FIFAWorldCup2006
+9707,2006-06-25,Portugal,Netherlands,7.0,3.0,1.0,0.0,FIFA World Cup,Germany,True,No,Win,2006,Round of 16, ,FIFAWorldCup2006
+9709,2006-06-26,Italy,Australia,13.0,42.0,1.0,0.0,FIFA World Cup,Germany,True,No,Win,2006,Round of 16, ,FIFAWorldCup2006
+9711,2006-06-26,Switzerland,Ukraine,35.0,45.0,0.0,0.0,FIFA World Cup,Germany,True,Yes,Lose,2006,Round of 16,Ukraine win on penalties (0 - 3) ,FIFAWorldCup2006
+9712,2006-06-27,Brazil,Ghana,1.0,48.0,3.0,0.0,FIFA World Cup,Germany,True,No,Win,2006,Round of 16, ,FIFAWorldCup2006
+9713,2006-06-27,Spain,France,5.0,8.0,1.0,3.0,FIFA World Cup,Germany,True,No,Lose,2006,Round of 16, ,FIFAWorldCup2006
+9715,2006-06-30,Germany,Argentina,19.0,9.0,1.0,1.0,FIFA World Cup,Germany,False,Yes,Win,2006,Quarter-finals,Germany win on penalties (4 - 2) ,FIFAWorldCup2006
+9716,2006-06-30,Italy,Ukraine,13.0,45.0,3.0,0.0,FIFA World Cup,Germany,True,No,Win,2006,Quarter-finals, ,FIFAWorldCup2006
+9718,2006-07-01,Brazil,France,1.0,8.0,0.0,1.0,FIFA World Cup,Germany,True,No,Lose,2006,Quarter-finals, ,FIFAWorldCup2006
+9719,2006-07-01,England,Portugal,10.0,7.0,0.0,0.0,FIFA World Cup,Germany,True,Yes,Lose,2006,Quarter-finals,Portugal win on penalties (1 - 3) ,FIFAWorldCup2006
+9721,2006-07-04,Germany,Italy,19.0,13.0,0.0,2.0,FIFA World Cup,Germany,False,No,Lose,2006,Semi-finals,Italy win after extra time ,FIFAWorldCup2006
+9723,2006-07-05,Portugal,France,7.0,8.0,0.0,1.0,FIFA World Cup,Germany,True,No,Lose,2006,Semi-finals, ,FIFAWorldCup2006
+9725,2006-07-08,Germany,Portugal,19.0,7.0,3.0,1.0,FIFA World Cup,Germany,False,No,Win,2006,Third place, ,FIFAWorldCup2006
+9727,2006-07-09,Italy,France,13.0,8.0,1.0,1.0,FIFA World Cup,Germany,True,Yes,Win,2006,Final,Italy win on penalties (5 - 3) ,FIFAWorldCup2006
+13165,2010-06-11,South Africa,Mexico,83.0,17.0,1.0,1.0,FIFA World Cup,South Africa,False,No,Draw,2010,Group A, ,FIFAWorldCup2010
+13166,2010-06-11,Uruguay,France,16.0,9.0,0.0,0.0,FIFA World Cup,South Africa,True,No,Draw,2010,Group A, ,FIFAWorldCup2010
+13167,2010-06-12,Argentina,Nigeria,7.0,21.0,1.0,0.0,FIFA World Cup,South Africa,True,No,Win,2010,Group B, ,FIFAWorldCup2010
+13168,2010-06-12,England,USA,8.0,14.0,1.0,1.0,FIFA World Cup,South Africa,True,No,Draw,2010,Group C, ,FIFAWorldCup2010
+13169,2010-06-12,Korea Republic,Greece,47.0,13.0,2.0,0.0,FIFA World Cup,South Africa,True,No,Win,2010,Group B, ,FIFAWorldCup2010
+13170,2010-06-13,Algeria,Slovenia,30.0,25.0,0.0,1.0,FIFA World Cup,South Africa,True,No,Lose,2010,Group C, ,FIFAWorldCup2010
+13171,2010-06-13,Germany,Australia,6.0,20.0,4.0,0.0,FIFA World Cup,South Africa,True,No,Win,2010,Group D, ,FIFAWorldCup2010
+13172,2010-06-13,Serbia,Ghana,15.0,32.0,0.0,1.0,FIFA World Cup,South Africa,True,No,Lose,2010,Group D, ,FIFAWorldCup2010
+13173,2010-06-14,Italy,Paraguay,5.0,31.0,1.0,1.0,FIFA World Cup,South Africa,True,No,Draw,2010,Group F, ,FIFAWorldCup2010
+13174,2010-06-14,Japan,Cameroon,45.0,19.0,1.0,0.0,FIFA World Cup,South Africa,True,No,Win,2010,Group E, ,FIFAWorldCup2010
+13175,2010-06-14,Netherlands,Denmark,4.0,36.0,2.0,0.0,FIFA World Cup,South Africa,True,No,Win,2010,Group E, ,FIFAWorldCup2010
+13176,2010-06-15,Brazil,Korea DPR,1.0,105.0,2.0,1.0,FIFA World Cup,South Africa,True,No,Win,2010,Group G, ,FIFAWorldCup2010
+13177,2010-06-15,Cote d'Ivoire,Portugal,27.0,3.0,0.0,0.0,FIFA World Cup,South Africa,True,No,Draw,2010,,,
+13178,2010-06-15,New Zealand,Slovakia,78.0,34.0,1.0,1.0,FIFA World Cup,South Africa,True,No,Draw,2010,Group F, ,FIFAWorldCup2010
+13179,2010-06-16,Honduras,Chile,38.0,18.0,0.0,1.0,FIFA World Cup,South Africa,True,No,Lose,2010,Group H, ,FIFAWorldCup2010
+13180,2010-06-16,South Africa,Uruguay,83.0,16.0,0.0,3.0,FIFA World Cup,South Africa,False,No,Lose,2010,Group A, ,FIFAWorldCup2010
+13181,2010-06-16,Spain,Switzerland,2.0,24.0,0.0,1.0,FIFA World Cup,South Africa,True,No,Lose,2010,Group H, ,FIFAWorldCup2010
+13182,2010-06-17,Argentina,Korea Republic,7.0,47.0,4.0,1.0,FIFA World Cup,South Africa,True,No,Win,2010,Group B, ,FIFAWorldCup2010
+13183,2010-06-17,France,Mexico,9.0,17.0,0.0,2.0,FIFA World Cup,South Africa,True,No,Lose,2010,Group A, ,FIFAWorldCup2010
+13184,2010-06-17,Greece,Nigeria,13.0,21.0,2.0,1.0,FIFA World Cup,South Africa,True,No,Win,2010,Group B, ,FIFAWorldCup2010
+13185,2010-06-18,England,Algeria,8.0,30.0,0.0,0.0,FIFA World Cup,South Africa,True,No,Draw,2010,Group C, ,FIFAWorldCup2010
+13186,2010-06-18,Germany,Serbia,6.0,15.0,0.0,1.0,FIFA World Cup,South Africa,True,No,Lose,2010,Group D, ,FIFAWorldCup2010
+13188,2010-06-18,Slovenia,USA,25.0,14.0,2.0,2.0,FIFA World Cup,South Africa,True,No,Draw,2010,Group C, ,FIFAWorldCup2010
+13189,2010-06-19,Cameroon,Denmark,19.0,36.0,1.0,2.0,FIFA World Cup,South Africa,True,No,Lose,2010,Group E, ,FIFAWorldCup2010
+13191,2010-06-19,Ghana,Australia,32.0,20.0,1.0,1.0,FIFA World Cup,South Africa,True,No,Draw,2010,Group D, ,FIFAWorldCup2010
+13192,2010-06-19,Netherlands,Japan,4.0,45.0,1.0,0.0,FIFA World Cup,South Africa,True,No,Win,2010,Group E, ,FIFAWorldCup2010
+13194,2010-06-20,Brazil,Cote d'Ivoire,1.0,27.0,3.0,1.0,FIFA World Cup,South Africa,True,No,Win,2010,,,
+13195,2010-06-20,Italy,New Zealand,5.0,78.0,1.0,1.0,FIFA World Cup,South Africa,True,No,Draw,2010,Group F, ,FIFAWorldCup2010
+13197,2010-06-20,Slovakia,Paraguay,34.0,31.0,0.0,2.0,FIFA World Cup,South Africa,True,No,Lose,2010,Group F, ,FIFAWorldCup2010
+13199,2010-06-21,Chile,Switzerland,18.0,24.0,1.0,0.0,FIFA World Cup,South Africa,True,No,Win,2010,Group H, ,FIFAWorldCup2010
+13200,2010-06-21,Portugal,Korea DPR,3.0,105.0,7.0,0.0,FIFA World Cup,South Africa,True,No,Win,2010,Group G, ,FIFAWorldCup2010
+13201,2010-06-21,Spain,Honduras,2.0,38.0,2.0,0.0,FIFA World Cup,South Africa,True,No,Win,2010,Group H, ,FIFAWorldCup2010
+13202,2010-06-22,Greece,Argentina,13.0,7.0,0.0,2.0,FIFA World Cup,South Africa,True,No,Lose,2010,Group B, ,FIFAWorldCup2010
+13203,2010-06-22,Mexico,Uruguay,17.0,16.0,0.0,1.0,FIFA World Cup,South Africa,True,No,Lose,2010,Group A, ,FIFAWorldCup2010
+13204,2010-06-22,Nigeria,Korea Republic,21.0,47.0,2.0,2.0,FIFA World Cup,South Africa,True,No,Draw,2010,Group B, ,FIFAWorldCup2010
+13205,2010-06-22,South Africa,France,83.0,9.0,2.0,1.0,FIFA World Cup,South Africa,False,No,Win,2010,,,
+13206,2010-06-23,Australia,Serbia,20.0,15.0,2.0,1.0,FIFA World Cup,South Africa,True,No,Win,2010,Group D, ,FIFAWorldCup2010
+13207,2010-06-23,Ghana,Germany,32.0,6.0,0.0,1.0,FIFA World Cup,South Africa,True,No,Lose,2010,Group D, ,FIFAWorldCup2010
+13208,2010-06-23,Slovenia,England,25.0,8.0,0.0,1.0,FIFA World Cup,South Africa,True,No,Lose,2010,Group C, ,FIFAWorldCup2010
+13209,2010-06-23,USA,Algeria,14.0,30.0,1.0,0.0,FIFA World Cup,South Africa,True,No,Win,2010,Group C, ,FIFAWorldCup2010
+13210,2010-06-24,Cameroon,Netherlands,19.0,4.0,1.0,2.0,FIFA World Cup,South Africa,True,No,Lose,2010,Group E, ,FIFAWorldCup2010
+13211,2010-06-24,Denmark,Japan,36.0,45.0,1.0,3.0,FIFA World Cup,South Africa,True,No,Lose,2010,Group E, ,FIFAWorldCup2010
+13212,2010-06-24,Paraguay,New Zealand,31.0,78.0,0.0,0.0,FIFA World Cup,South Africa,True,No,Draw,2010,Group F, ,FIFAWorldCup2010
+13213,2010-06-24,Slovakia,Italy,34.0,5.0,3.0,2.0,FIFA World Cup,South Africa,True,No,Win,2010,Group F, ,FIFAWorldCup2010
+13214,2010-06-25,Chile,Spain,18.0,2.0,1.0,2.0,FIFA World Cup,South Africa,True,No,Lose,2010,Group H, ,FIFAWorldCup2010
+13215,2010-06-25,Korea DPR,Cote d'Ivoire,105.0,27.0,0.0,3.0,FIFA World Cup,South Africa,True,No,Lose,2010,,,
+13216,2010-06-25,Portugal,Brazil,3.0,1.0,0.0,0.0,FIFA World Cup,South Africa,True,No,Draw,2010,Group G, ,FIFAWorldCup2010
+13217,2010-06-25,Switzerland,Honduras,24.0,38.0,0.0,0.0,FIFA World Cup,South Africa,True,No,Draw,2010,Group H, ,FIFAWorldCup2010
+13219,2010-06-26,Uruguay,Korea Republic,16.0,47.0,2.0,1.0,FIFA World Cup,South Africa,True,No,Win,2010,Round of 16, ,FIFAWorldCup2010
+13220,2010-06-26,USA,Ghana,14.0,32.0,1.0,2.0,FIFA World Cup,South Africa,True,No,Lose,2010,Round of 16,Ghana win after extra time ,FIFAWorldCup2010
+13221,2010-06-27,Argentina,Mexico,7.0,17.0,3.0,1.0,FIFA World Cup,South Africa,True,No,Win,2010,Round of 16, ,FIFAWorldCup2010
+13222,2010-06-27,Germany,England,6.0,8.0,4.0,1.0,FIFA World Cup,South Africa,True,No,Win,2010,Round of 16, ,FIFAWorldCup2010
+13223,2010-06-28,Brazil,Chile,1.0,18.0,3.0,0.0,FIFA World Cup,South Africa,True,No,Win,2010,Round of 16, ,FIFAWorldCup2010
+13224,2010-06-28,Netherlands,Slovakia,4.0,34.0,2.0,1.0,FIFA World Cup,South Africa,True,No,Win,2010,Round of 16, ,FIFAWorldCup2010
+13225,2010-06-29,Paraguay,Japan,31.0,45.0,0.0,0.0,FIFA World Cup,South Africa,True,Yes,Win,2010,Round of 16,Paraguay win on penalties (5 - 3) ,FIFAWorldCup2010
+13226,2010-06-29,Spain,Portugal,2.0,3.0,1.0,0.0,FIFA World Cup,South Africa,True,No,Win,2010,Round of 16, ,FIFAWorldCup2010
+13229,2010-07-02,Netherlands,Brazil,4.0,1.0,2.0,1.0,FIFA World Cup,South Africa,True,No,Win,2010,Quarter-finals, ,FIFAWorldCup2010
+13230,2010-07-02,Uruguay,Ghana,16.0,32.0,1.0,1.0,FIFA World Cup,South Africa,True,Yes,Win,2010,Quarter-finals,Uruguay win on penalties (4 - 2) ,FIFAWorldCup2010
+13231,2010-07-03,Argentina,Germany,7.0,6.0,0.0,4.0,FIFA World Cup,South Africa,True,No,Lose,2010,Quarter-finals, ,FIFAWorldCup2010
+13232,2010-07-03,Paraguay,Spain,31.0,2.0,0.0,1.0,FIFA World Cup,South Africa,True,No,Lose,2010,Quarter-finals, ,FIFAWorldCup2010
+13233,2010-07-06,Uruguay,Netherlands,16.0,4.0,2.0,3.0,FIFA World Cup,South Africa,True,No,Lose,2010,Semi-finals, ,FIFAWorldCup2010
+13234,2010-07-07,Germany,Spain,6.0,2.0,0.0,1.0,FIFA World Cup,South Africa,True,No,Lose,2010,Semi-finals, ,FIFAWorldCup2010
+13237,2010-07-10,Uruguay,Germany,16.0,6.0,2.0,3.0,FIFA World Cup,South Africa,True,No,Lose,2010,Match for third place, ,FIFAWorldCup2010
+13238,2010-07-11,Netherlands,Spain,4.0,2.0,0.0,1.0,FIFA World Cup,South Africa,True,No,Lose,2010,Final,Spain win after extra time ,FIFAWorldCup2010
+16864,2014-06-12,Brazil,Croatia,3.0,18.0,3.0,1.0,FIFA World Cup,Brazil,False,No,Win,2014,Group A, ,FIFAWorldCup2014
+16865,2014-06-13,Chile,Australia,14.0,62.0,3.0,1.0,FIFA World Cup,Brazil,True,No,Win,2014,Group B, ,FIFAWorldCup2014
+16866,2014-06-13,Mexico,Cameroon,20.0,56.0,1.0,0.0,FIFA World Cup,Brazil,True,No,Win,2014,Group A, ,FIFAWorldCup2014
+16867,2014-06-13,Spain,Netherlands,1.0,15.0,1.0,5.0,FIFA World Cup,Brazil,True,No,Lose,2014,Group B, ,FIFAWorldCup2014
+16868,2014-06-14,Colombia,Greece,8.0,12.0,3.0,0.0,FIFA World Cup,Brazil,True,No,Win,2014,Group C, ,FIFAWorldCup2014
+16869,2014-06-14,England,Italy,10.0,9.0,1.0,2.0,FIFA World Cup,Brazil,True,No,Lose,2014,Group D, ,FIFAWorldCup2014
+16870,2014-06-14,Cote d'Ivoire,Japan,23.0,46.0,2.0,1.0,FIFA World Cup,Brazil,True,No,Win,2014,,,
+16871,2014-06-14,Uruguay,Costa Rica,7.0,28.0,1.0,3.0,FIFA World Cup,Brazil,True,No,Lose,2014,Group D, ,FIFAWorldCup2014
+16872,2014-06-15,Argentina,Bosnia and Herzegovina,5.0,21.0,2.0,1.0,FIFA World Cup,Brazil,True,No,Win,2014,,,
+16873,2014-06-15,France,Honduras,17.0,33.0,3.0,0.0,FIFA World Cup,Brazil,True,No,Win,2014,Group E, ,FIFAWorldCup2014
+16874,2014-06-15,Switzerland,Ecuador,6.0,26.0,2.0,1.0,FIFA World Cup,Brazil,True,No,Win,2014,Group E, ,FIFAWorldCup2014
+16875,2014-06-16,Germany,Portugal,2.0,4.0,4.0,0.0,FIFA World Cup,Brazil,True,No,Win,2014,Group G, ,FIFAWorldCup2014
+16876,2014-06-16,Ghana,USA,37.0,13.0,1.0,2.0,FIFA World Cup,Brazil,True,No,Lose,2014,Group G, ,FIFAWorldCup2014
+16877,2014-06-16,IR Iran,Nigeria,43.0,44.0,0.0,0.0,FIFA World Cup,Brazil,True,No,Draw,2014,Group F, ,FIFAWorldCup2014
+16878,2014-06-17,Belgium,Algeria,11.0,22.0,2.0,1.0,FIFA World Cup,Brazil,True,No,Win,2014,Group H, ,FIFAWorldCup2014
+16879,2014-06-17,Brazil,Mexico,3.0,20.0,0.0,0.0,FIFA World Cup,Brazil,False,No,Draw,2014,Group A, ,FIFAWorldCup2014
+16880,2014-06-17,Russia,Korea Republic,19.0,57.0,1.0,1.0,FIFA World Cup,Brazil,True,No,Draw,2014,Group H, ,FIFAWorldCup2014
+16881,2014-06-18,Australia,Netherlands,62.0,15.0,2.0,3.0,FIFA World Cup,Brazil,True,No,Lose,2014,Group B, ,FIFAWorldCup2014
+16882,2014-06-18,Cameroon,Croatia,56.0,18.0,0.0,4.0,FIFA World Cup,Brazil,True,No,Lose,2014,Group A, ,FIFAWorldCup2014
+16884,2014-06-18,Spain,Chile,1.0,14.0,0.0,2.0,FIFA World Cup,Brazil,True,No,Lose,2014,Group B, ,FIFAWorldCup2014
+16885,2014-06-19,Colombia,Cote d'Ivoire,8.0,23.0,2.0,1.0,FIFA World Cup,Brazil,True,No,Win,2014,,,
+16886,2014-06-19,Japan,Greece,46.0,12.0,0.0,0.0,FIFA World Cup,Brazil,True,No,Draw,2014,Group C, ,FIFAWorldCup2014
+16887,2014-06-19,Uruguay,England,7.0,10.0,2.0,1.0,FIFA World Cup,Brazil,True,No,Win,2014,Group D, ,FIFAWorldCup2014
+16888,2014-06-20,Honduras,Ecuador,33.0,26.0,1.0,2.0,FIFA World Cup,Brazil,True,No,Lose,2014,Group E, ,FIFAWorldCup2014
+16889,2014-06-20,Italy,Costa Rica,9.0,28.0,0.0,1.0,FIFA World Cup,Brazil,True,No,Lose,2014,Group D, ,FIFAWorldCup2014
+16890,2014-06-20,Switzerland,France,6.0,17.0,2.0,5.0,FIFA World Cup,Brazil,True,No,Lose,2014,Group E, ,FIFAWorldCup2014
+16891,2014-06-21,Argentina,IR Iran,5.0,43.0,1.0,0.0,FIFA World Cup,Brazil,True,No,Win,2014,Group F, ,FIFAWorldCup2014
+16892,2014-06-21,Germany,Ghana,2.0,37.0,2.0,2.0,FIFA World Cup,Brazil,True,No,Draw,2014,Group G, ,FIFAWorldCup2014
+16894,2014-06-21,Nigeria,Bosnia and Herzegovina,44.0,21.0,1.0,0.0,FIFA World Cup,Brazil,True,No,Win,2014,,,
+16895,2014-06-22,Belgium,Russia,11.0,19.0,1.0,0.0,FIFA World Cup,Brazil,True,No,Win,2014,Group H, ,FIFAWorldCup2014
+16897,2014-06-22,Korea Republic,Algeria,57.0,22.0,2.0,4.0,FIFA World Cup,Brazil,True,No,Lose,2014,Group H, ,FIFAWorldCup2014
+16898,2014-06-22,USA,Portugal,13.0,4.0,2.0,2.0,FIFA World Cup,Brazil,True,No,Draw,2014,Group G, ,FIFAWorldCup2014
+16899,2014-06-23,Australia,Spain,62.0,1.0,0.0,3.0,FIFA World Cup,Brazil,True,No,Lose,2014,Group B, ,FIFAWorldCup2014
+16900,2014-06-23,Brazil,Cameroon,3.0,56.0,4.0,1.0,FIFA World Cup,Brazil,False,No,Win,2014,,,
+16901,2014-06-23,Croatia,Mexico,18.0,20.0,1.0,3.0,FIFA World Cup,Brazil,True,No,Lose,2014,Group A, ,FIFAWorldCup2014
+16902,2014-06-23,Netherlands,Chile,15.0,14.0,2.0,0.0,FIFA World Cup,Brazil,True,No,Win,2014,Group B, ,FIFAWorldCup2014
+16903,2014-06-24,Costa Rica,England,28.0,10.0,0.0,0.0,FIFA World Cup,Brazil,True,No,Draw,2014,Group D, ,FIFAWorldCup2014
+16904,2014-06-24,Greece,Cote d'Ivoire,12.0,23.0,2.0,1.0,FIFA World Cup,Brazil,True,No,Win,2014,,,
+16905,2014-06-24,Italy,Uruguay,9.0,7.0,0.0,1.0,FIFA World Cup,Brazil,True,No,Lose,2014,Group D, ,FIFAWorldCup2014
+16906,2014-06-24,Japan,Colombia,46.0,8.0,1.0,4.0,FIFA World Cup,Brazil,True,No,Lose,2014,Group C, ,FIFAWorldCup2014
+16907,2014-06-25,Bosnia and Herzegovina,IR Iran,21.0,43.0,3.0,1.0,FIFA World Cup,Brazil,True,No,Win,2014,,,
+16908,2014-06-25,Ecuador,France,26.0,17.0,0.0,0.0,FIFA World Cup,Brazil,True,No,Draw,2014,Group E, ,FIFAWorldCup2014
+16909,2014-06-25,Honduras,Switzerland,33.0,6.0,0.0,3.0,FIFA World Cup,Brazil,True,No,Lose,2014,Group E, ,FIFAWorldCup2014
+16911,2014-06-25,Nigeria,Argentina,44.0,5.0,2.0,3.0,FIFA World Cup,Brazil,True,No,Lose,2014,Group F, ,FIFAWorldCup2014
+16912,2014-06-26,Algeria,Russia,22.0,19.0,1.0,1.0,FIFA World Cup,Brazil,True,No,Draw,2014,Group H, ,FIFAWorldCup2014
+16913,2014-06-26,Korea Republic,Belgium,57.0,11.0,0.0,1.0,FIFA World Cup,Brazil,True,No,Lose,2014,Group H, ,FIFAWorldCup2014
+16914,2014-06-26,Portugal,Ghana,4.0,37.0,2.0,1.0,FIFA World Cup,Brazil,True,No,Win,2014,Group G, ,FIFAWorldCup2014
+16915,2014-06-26,USA,Germany,13.0,2.0,0.0,1.0,FIFA World Cup,Brazil,True,No,Lose,2014,Group G, ,FIFAWorldCup2014
+16916,2014-06-28,Brazil,Chile,3.0,14.0,1.0,1.0,FIFA World Cup,Brazil,False,Yes,Win,2014,Round of 16,Brazil win on penalties (3 - 2) ,FIFAWorldCup2014
+16917,2014-06-28,Brazil,Chile,3.0,14.0,1.0,1.0,FIFA World Cup,Brazil,False,Yes,Win,2014,Round of 16,Brazil win on penalties (3 - 2) ,FIFAWorldCup2014
+16918,2014-06-28,Colombia,Uruguay,8.0,7.0,2.0,0.0,FIFA World Cup,Brazil,True,No,Win,2014,Round of 16, ,FIFAWorldCup2014
+16919,2014-06-28,Colombia,Uruguay,8.0,7.0,2.0,0.0,FIFA World Cup,Brazil,True,No,Win,2014,Round of 16, ,FIFAWorldCup2014
+16921,2014-06-29,Costa Rica,Greece,28.0,12.0,1.0,1.0,FIFA World Cup,Brazil,True,Yes,Win,2014,Round of 16,Costa Rica win on penalties (5 - 3) ,FIFAWorldCup2014
+16922,2014-06-29,Costa Rica,Greece,28.0,12.0,1.0,1.0,FIFA World Cup,Brazil,True,Yes,Win,2014,Round of 16,Costa Rica win on penalties (5 - 3) ,FIFAWorldCup2014
+16923,2014-06-29,Netherlands,Mexico,15.0,20.0,2.0,1.0,FIFA World Cup,Brazil,True,No,Win,2014,Round of 16, ,FIFAWorldCup2014
+16924,2014-06-29,Netherlands,Mexico,15.0,20.0,2.0,1.0,FIFA World Cup,Brazil,True,No,Win,2014,Round of 16, ,FIFAWorldCup2014
+16925,2014-06-30,France,Nigeria,17.0,44.0,2.0,0.0,FIFA World Cup,Brazil,True,No,Win,2014,Round of 16, ,FIFAWorldCup2014
+16926,2014-06-30,France,Nigeria,17.0,44.0,2.0,0.0,FIFA World Cup,Brazil,True,No,Win,2014,Round of 16, ,FIFAWorldCup2014
+16927,2014-06-30,Germany,Algeria,2.0,22.0,2.0,1.0,FIFA World Cup,Brazil,True,No,Win,2014,Round of 16,Germany win after extra time ,FIFAWorldCup2014
+16928,2014-06-30,Germany,Algeria,2.0,22.0,2.0,1.0,FIFA World Cup,Brazil,True,No,Win,2014,Round of 16,Germany win after extra time ,FIFAWorldCup2014
+16929,2014-07-01,Argentina,Switzerland,5.0,6.0,1.0,0.0,FIFA World Cup,Brazil,True,No,Win,2014,Round of 16,Argentina win after extra time ,FIFAWorldCup2014
+16930,2014-07-01,Argentina,Switzerland,5.0,6.0,1.0,0.0,FIFA World Cup,Brazil,True,No,Win,2014,Round of 16,Argentina win after extra time ,FIFAWorldCup2014
+16931,2014-07-01,Belgium,USA,11.0,13.0,2.0,1.0,FIFA World Cup,Brazil,True,No,Win,2014,Round of 16,Belgium win after extra time ,FIFAWorldCup2014
+16932,2014-07-01,Belgium,USA,11.0,13.0,2.0,1.0,FIFA World Cup,Brazil,True,No,Win,2014,Round of 16,Belgium win after extra time ,FIFAWorldCup2014
+16934,2014-07-04,Brazil,Colombia,3.0,8.0,2.0,1.0,FIFA World Cup,Brazil,False,No,Win,2014,Quarter-finals, ,FIFAWorldCup2014
+16935,2014-07-04,Brazil,Colombia,3.0,8.0,2.0,1.0,FIFA World Cup,Brazil,False,No,Win,2014,Quarter-finals, ,FIFAWorldCup2014
+16936,2014-07-04,France,Germany,17.0,2.0,0.0,1.0,FIFA World Cup,Brazil,True,No,Lose,2014,Quarter-finals, ,FIFAWorldCup2014
+16937,2014-07-04,France,Germany,17.0,2.0,0.0,1.0,FIFA World Cup,Brazil,True,No,Lose,2014,Quarter-finals, ,FIFAWorldCup2014
+16938,2014-07-05,Argentina,Belgium,5.0,11.0,1.0,0.0,FIFA World Cup,Brazil,True,No,Win,2014,Quarter-finals, ,FIFAWorldCup2014
+16939,2014-07-05,Argentina,Belgium,5.0,11.0,1.0,0.0,FIFA World Cup,Brazil,True,No,Win,2014,Quarter-finals, ,FIFAWorldCup2014
+16940,2014-07-05,Netherlands,Costa Rica,15.0,28.0,0.0,0.0,FIFA World Cup,Brazil,True,Yes,Win,2014,Quarter-finals,Netherlands win on penalties (4 - 3) ,FIFAWorldCup2014
+16941,2014-07-05,Netherlands,Costa Rica,15.0,28.0,0.0,0.0,FIFA World Cup,Brazil,True,Yes,Win,2014,Quarter-finals,Netherlands win on penalties (4 - 3) ,FIFAWorldCup2014
+16943,2014-07-08,Brazil,Germany,3.0,2.0,1.0,7.0,FIFA World Cup,Brazil,False,No,Lose,2014,Semi-finals, ,FIFAWorldCup2014
+16944,2014-07-08,Brazil,Germany,3.0,2.0,1.0,7.0,FIFA World Cup,Brazil,False,No,Lose,2014,Semi-finals, ,FIFAWorldCup2014
+16945,2014-07-09,Netherlands,Argentina,15.0,5.0,0.0,0.0,FIFA World Cup,Brazil,True,Yes,Lose,2014,Semi-finals,Argentina win on penalties (2 - 4) ,FIFAWorldCup2014
+16946,2014-07-09,Netherlands,Argentina,15.0,5.0,0.0,0.0,FIFA World Cup,Brazil,True,Yes,Lose,2014,Semi-finals,Argentina win on penalties (2 - 4) ,FIFAWorldCup2014
+16948,2014-07-12,Brazil,Netherlands,3.0,15.0,0.0,3.0,FIFA World Cup,Brazil,False,No,Lose,2014,Play-off for third place, ,FIFAWorldCup2014
+16949,2014-07-12,Brazil,Netherlands,3.0,15.0,0.0,3.0,FIFA World Cup,Brazil,False,No,Lose,2014,Play-off for third place, ,FIFAWorldCup2014
+16951,2014-07-13,Germany,Argentina,2.0,5.0,1.0,0.0,FIFA World Cup,Brazil,True,No,Win,2014,Final,Germany win after extra time ,FIFAWorldCup2014
+16952,2014-07-13,Germany,Argentina,2.0,5.0,1.0,0.0,FIFA World Cup,Brazil,True,No,Win,2014,Final,Germany win after extra time ,FIFAWorldCup2014
+20401,2018-06-14,Russia,Saudi Arabia,70.0,67.0,5.0,0.0,FIFA World Cup,Russia,False,No,Win,2018,,,
+20402,2018-06-15,Egypt,Uruguay,45.0,14.0,0.0,1.0,FIFA World Cup,Russia,True,No,Lose,2018,,,
+20403,2018-06-15,Morocco,IR Iran,41.0,37.0,0.0,1.0,FIFA World Cup,Russia,True,No,Lose,2018,,,
+20404,2018-06-15,Portugal,Spain,4.0,10.0,3.0,3.0,FIFA World Cup,Russia,True,No,Draw,2018,,,
+20405,2018-06-16,France,Australia,7.0,36.0,2.0,1.0,FIFA World Cup,Russia,True,No,Win,2018,,,
+20406,2018-06-16,Argentina,Iceland,5.0,22.0,1.0,1.0,FIFA World Cup,Russia,True,No,Draw,2018,,,
+20407,2018-06-16,Peru,Denmark,11.0,12.0,0.0,1.0,FIFA World Cup,Russia,True,No,Lose,2018,,,
+20408,2018-06-16,Croatia,Nigeria,20.0,48.0,2.0,0.0,FIFA World Cup,Russia,True,No,Win,2018,,,
+20409,2018-06-17,Costa Rica,Serbia,23.0,34.0,0.0,1.0,FIFA World Cup,Russia,True,No,Lose,2018,,,
+20410,2018-06-17,Germany,Mexico,1.0,15.0,0.0,1.0,FIFA World Cup,Russia,True,No,Lose,2018,,,
+20411,2018-06-17,Brazil,Switzerland,2.0,6.0,1.0,1.0,FIFA World Cup,Russia,True,No,Draw,2018,,,
+20412,2018-06-18,Sweden,Korea Republic,24.0,57.0,1.0,0.0,FIFA World Cup,Russia,True,No,Win,2018,,,
+20413,2018-06-18,Belgium,Panama,3.0,55.0,3.0,0.0,FIFA World Cup,Russia,True,No,Win,2018,,,
+20414,2018-06-18,Tunisia,England,21.0,12.0,1.0,2.0,FIFA World Cup,Russia,True,No,Lose,2018,,,
+20415,2018-06-19,Colombia,Japan,16.0,61.0,1.0,2.0,FIFA World Cup,Russia,True,No,Lose,2018,,,
+20416,2018-06-19,Poland,Senegal,8.0,27.0,1.0,2.0,FIFA World Cup,Russia,True,No,Lose,2018,,,
+20417,2018-06-19,Russia,Egypt,70.0,45.0,3.0,1.0,FIFA World Cup,Russia,False,No,Win,2018,,,
+20418,2018-06-20,Portugal,Morocco,4.0,41.0,1.0,0.0,FIFA World Cup,Russia,True,No,Win,2018,,,
+20419,2018-06-20,Uruguay,Saudi Arabia,14.0,67.0,1.0,0.0,FIFA World Cup,Russia,True,No,Win,2018,,,
+20420,2018-06-20,IR Iran,Spain,37.0,10.0,0.0,1.0,FIFA World Cup,Russia,True,No,Lose,2018,,,
+20421,2018-06-21,Denmark,Australia,12.0,36.0,1.0,1.0,FIFA World Cup,Russia,True,No,Draw,2018,,,
+20422,2018-06-21,France,Peru,7.0,11.0,1.0,0.0,FIFA World Cup,Russia,True,No,Win,2018,,,
+20423,2018-06-21,Argentina,Croatia,5.0,20.0,0.0,3.0,FIFA World Cup,Russia,True,No,Lose,2018,,,
+20424,2018-06-22,Brazil,Costa Rica,2.0,23.0,2.0,0.0,FIFA World Cup,Russia,True,No,Win,2018,,,
+20425,2018-06-22,Nigeria,Iceland,48.0,22.0,2.0,0.0,FIFA World Cup,Russia,True,No,Win,2018,,,
+20426,2018-06-22,Serbia,Switzerland,34.0,6.0,1.0,2.0,FIFA World Cup,Russia,True,No,Lose,2018,,,
+20427,2018-06-23,Belgium,Tunisia,3.0,21.0,5.0,2.0,FIFA World Cup,Russia,True,No,Win,2018,,,
+20428,2018-06-23,Korea Republic,Mexico,57.0,15.0,1.0,2.0,FIFA World Cup,Russia,True,No,Lose,2018,,,
+20429,2018-06-23,Germany,Sweden,1.0,24.0,2.0,1.0,FIFA World Cup,Russia,True,No,Win,2018,,,
+20430,2018-06-24,England,Panama,12.0,55.0,6.0,1.0,FIFA World Cup,Russia,True,No,Win,2018,,,
+20431,2018-06-24,Japan,Senegal,61.0,27.0,2.0,2.0,FIFA World Cup,Russia,True,No,Draw,2018,,,
+20432,2018-06-24,Poland,Colombia,8.0,16.0,0.0,3.0,FIFA World Cup,Russia,True,No,Lose,2018,,,
+20433,2018-06-25,Russia,Uruguay,70.0,14.0,0.0,3.0,FIFA World Cup,Russia,False,No,Lose,2018,,,
+20434,2018-06-25,Saudi Arabia,Egypt,67.0,45.0,2.0,1.0,FIFA World Cup,Russia,True,No,Win,2018,,,
+20435,2018-06-25,Spain,Morocco,10.0,41.0,2.0,2.0,FIFA World Cup,Russia,True,No,Draw,2018,,,
+20436,2018-06-25,IR Iran,Portugal,37.0,4.0,1.0,1.0,FIFA World Cup,Russia,True,No,Draw,2018,,,
+20437,2018-06-26,Australia,Peru,36.0,11.0,0.0,2.0,FIFA World Cup,Russia,True,No,Lose,2018,,,
+20438,2018-06-26,Denmark,France,12.0,7.0,0.0,0.0,FIFA World Cup,Russia,True,No,Draw,2018,,,
+20439,2018-06-26,Nigeria,Argentina,48.0,5.0,1.0,2.0,FIFA World Cup,Russia,True,No,Lose,2018,,,
+20440,2018-06-26,Iceland,Croatia,22.0,20.0,1.0,2.0,FIFA World Cup,Russia,True,No,Lose,2018,,,
+20441,2018-06-27,Korea Republic,Germany,57.0,1.0,2.0,0.0,FIFA World Cup,Russia,True,No,Win,2018,,,
+20442,2018-06-27,Mexico,Sweden,15.0,24.0,0.0,3.0,FIFA World Cup,Russia,True,No,Lose,2018,,,
+20443,2018-06-27,Serbia,Brazil,34.0,2.0,0.0,2.0,FIFA World Cup,Russia,True,No,Lose,2018,,,
+20444,2018-06-27,Switzerland,Costa Rica,6.0,23.0,2.0,2.0,FIFA World Cup,Russia,True,No,Draw,2018,,,
+20445,2018-06-28,Japan,Poland,61.0,8.0,0.0,1.0,FIFA World Cup,Russia,True,No,Lose,2018,,,
+20446,2018-06-28,Senegal,Colombia,27.0,16.0,0.0,1.0,FIFA World Cup,Russia,True,No,Lose,2018,,,
+20447,2018-06-28,Panama,Tunisia,55.0,21.0,1.0,2.0,FIFA World Cup,Russia,True,No,Lose,2018,,,
+20448,2018-06-28,England,Belgium,12.0,3.0,0.0,1.0,FIFA World Cup,Russia,True,No,Lose,2018,,,
+20449,2018-06-30,France,Argentina,7.0,5.0,4.0,3.0,FIFA World Cup,Russia,True,No,Win,2018,,,
+20450,2018-06-30,Uruguay,Portugal,14.0,4.0,2.0,1.0,FIFA World Cup,Russia,True,No,Win,2018,,,
+20451,2018-07-01,Russia,Spain,49.0,6.0,1.0,1.0,FIFA World Cup,Russia,False,Yes,Win,2018,,,
+20452,2018-07-01,Croatia,Denmark,12.0,15.0,1.0,1.0,FIFA World Cup,Russia,True,Yes,Win,2018,,,
+20453,2018-07-02,Brazil,Mexico,4.0,10.0,2.0,0.0,FIFA World Cup,Russia,True,No,Win,2018,,,
+20454,2018-07-02,Belgium,Japan,5.0,41.0,3.0,2.0,FIFA World Cup,Russia,True,No,Win,2018,,,
+20455,2018-07-03,Sweden,Switzerland,21.0,8.0,1.0,0.0,FIFA World Cup,Russia,True,No,Win,2018,,,
+20456,2018-07-03,Colombia,England,17.0,7.0,1.0,1.0,FIFA World Cup,Russia,True,Yes,Lose,2018,,,
+20458,2018-07-06,Uruguay,France,14.0,2.0,0.0,2.0,FIFA World Cup,Russia,True,No,Lose,2018,,,
+20459,2018-07-06,Brazil,Belgium,4.0,5.0,1.0,2.0,FIFA World Cup,Russia,True,No,Lose,2018,,,
+20460,2018-07-07,Sweden,England,21.0,7.0,0.0,2.0,FIFA World Cup,Russia,True,No,Lose,2018,,,
+20461,2018-07-07,Russia,Croatia,49.0,12.0,2.0,2.0,FIFA World Cup,Russia,False,Yes,Lose,2018,,,
+20462,2018-07-10,France,Belgium,2.0,5.0,1.0,0.0,FIFA World Cup,Russia,True,No,Win,2018,,,
+20463,2018-07-11,Croatia,England,12.0,7.0,2.0,1.0,FIFA World Cup,Russia,True,No,Win,2018,,,
+20464,2018-07-14,Belgium,England,5.0,7.0,2.0,0.0,FIFA World Cup,Russia,True,No,Win,2018,,,
+20465,2018-07-15,France,Croatia,2.0,12.0,4.0,2.0,FIFA World Cup,Russia,True,No,Win,2018,,,
+23937,1930-07-13,France,Mexico,,,,,FIFA World Cup,,,,,,Group 1, ,FIFAWorldCup1930
+23938,1930-07-13,USA,Belgium,,,,,FIFA World Cup,,,,,,Group 4, ,FIFAWorldCup1930
+23939,1930-07-14,Yugoslavia,Brazil,,,,,FIFA World Cup,,,,,,Group 2, ,FIFAWorldCup1930
+23940,1930-07-14,Romania,Peru,,,,,FIFA World Cup,,,,,,Group 3, ,FIFAWorldCup1930
+23941,1930-07-15,Argentina,France,,,,,FIFA World Cup,,,,,,Group 1, ,FIFAWorldCup1930
+23942,1930-07-16,Chile,Mexico,,,,,FIFA World Cup,,,,,,Group 1, ,FIFAWorldCup1930
+23943,1930-07-17,Yugoslavia,Bolivia,,,,,FIFA World Cup,,,,,,Group 2, ,FIFAWorldCup1930
+23944,1930-07-17,USA,Paraguay,,,,,FIFA World Cup,,,,,,Group 4, ,FIFAWorldCup1930
+23945,1930-07-18,Uruguay,Peru,,,,,FIFA World Cup,,,,,,Group 3, ,FIFAWorldCup1930
+23946,1930-07-19,Chile,France,,,,,FIFA World Cup,,,,,,Group 1, ,FIFAWorldCup1930
+23947,1930-07-19,Argentina,Mexico,,,,,FIFA World Cup,,,,,,Group 1, ,FIFAWorldCup1930
+23948,1930-07-20,Brazil,Bolivia,,,,,FIFA World Cup,,,,,,Group 2, ,FIFAWorldCup1930
+23949,1930-07-20,Paraguay,Belgium,,,,,FIFA World Cup,,,,,,Group 4, ,FIFAWorldCup1930
+23950,1930-07-21,Uruguay,Romania,,,,,FIFA World Cup,,,,,,Group 3, ,FIFAWorldCup1930
+23951,1930-07-22,Argentina,Chile,,,,,FIFA World Cup,,,,,,Group 1, ,FIFAWorldCup1930
+23952,1930-07-26,Argentina,USA,,,,,FIFA World Cup,,,,,,Semi-finals, ,FIFAWorldCup1930
+23953,1930-07-27,Uruguay,Yugoslavia,,,,,FIFA World Cup,,,,,,Semi-finals, ,FIFAWorldCup1930
+23954,1930-07-30,Uruguay,Argentina,,,,,FIFA World Cup,,,,,,Final, ,FIFAWorldCup1930
+23955,1934-05-27,Austria,France,,,,,FIFA World Cup,,,,,,Preliminary round,Austria win after extra time ,FIFAWorldCup1934
+23956,1934-05-27,Hungary,Egypt,,,,,FIFA World Cup,,,,,,Preliminary round, ,FIFAWorldCup1934
+23957,1934-05-27,Switzerland,Netherlands,,,,,FIFA World Cup,,,,,,Preliminary round, ,FIFAWorldCup1934
+23958,1934-05-27,Sweden,Argentina,,,,,FIFA World Cup,,,,,,Preliminary round, ,FIFAWorldCup1934
+23959,1934-05-27,Germany,Belgium,,,,,FIFA World Cup,,,,,,Preliminary round, ,FIFAWorldCup1934
+23960,1934-05-27,Spain,Brazil,,,,,FIFA World Cup,,,,,,Preliminary round, ,FIFAWorldCup1934
+23961,1934-05-27,Italy,USA,,,,,FIFA World Cup,,,,,,Preliminary round, ,FIFAWorldCup1934
+23962,1934-05-27,Czechoslovakia,Romania,,,,,FIFA World Cup,,,,,,Preliminary round, ,FIFAWorldCup1934
+23963,1934-05-31,Czechoslovakia,Switzerland,,,,,FIFA World Cup,,,,,,Quarter-finals, ,FIFAWorldCup1934
+23964,1934-05-31,Germany,Sweden,,,,,FIFA World Cup,,,,,,Quarter-finals, ,FIFAWorldCup1934
+23965,1934-05-31,Italy,Spain,,,,,FIFA World Cup,,,,,,Quarter-finals, ,FIFAWorldCup1934
+23966,1934-05-31,Austria,Hungary,,,,,FIFA World Cup,,,,,,Quarter-finals, ,FIFAWorldCup1934
+23967,1934-06-01,Italy,Spain,,,,,FIFA World Cup,,,,,,Quarter-finals, ,FIFAWorldCup1934
+23968,1934-06-03,Italy,Austria,,,,,FIFA World Cup,,,,,,Semi-finals, ,FIFAWorldCup1934
+23969,1934-06-03,Czechoslovakia,Germany,,,,,FIFA World Cup,,,,,,Semi-finals, ,FIFAWorldCup1934
+23970,1934-06-07,Germany,Austria,,,,,FIFA World Cup,,,,,,Match for third place, ,FIFAWorldCup1934
+23971,1934-06-10,Italy,Czechoslovakia,,,,,FIFA World Cup,,,,,,Final,Italy win after extra time ,FIFAWorldCup1934
+23972,1938-06-04,Switzerland,Germany,,,,,FIFA World Cup,,,,,,First round, ,FIFAWorldCup1938
+23973,1938-06-05,Hungary,Dutch East Indies,,,,,FIFA World Cup,,,,,,First round, ,FIFAWorldCup1938
+23974,1938-06-05,France,Belgium,,,,,FIFA World Cup,,,,,,First round, ,FIFAWorldCup1938
+23975,1938-06-05,Cuba,Romania,,,,,FIFA World Cup,,,,,,First round, ,FIFAWorldCup1938
+23976,1938-06-05,Italy,Norway,,,,,FIFA World Cup,,,,,,First round,Italy win after extra time ,FIFAWorldCup1938
+23977,1938-06-05,Brazil,Poland,,,,,FIFA World Cup,,,,,,First round,Brazil win after extra time ,FIFAWorldCup1938
+23978,1938-06-05,Czechoslovakia,Netherlands,,,,,FIFA World Cup,,,,,,First round,Czechoslovakia win after extra time ,FIFAWorldCup1938
+23979,1938-06-09,Cuba,Romania,,,,,FIFA World Cup,,,,,,First round, ,FIFAWorldCup1938
+23980,1938-06-09,Switzerland,Germany,,,,,FIFA World Cup,,,,,,First round, ,FIFAWorldCup1938
+23981,1938-06-12,Brazil,Czechoslovakia,,,,,FIFA World Cup,,,,,,Quarter-finals, ,FIFAWorldCup1938
+23982,1938-06-12,Hungary,Switzerland,,,,,FIFA World Cup,,,,,,Quarter-finals, ,FIFAWorldCup1938
+23983,1938-06-12,Sweden,Cuba,,,,,FIFA World Cup,,,,,,Quarter-finals, ,FIFAWorldCup1938
+23984,1938-06-12,Italy,France,,,,,FIFA World Cup,,,,,,Quarter-finals, ,FIFAWorldCup1938
+23985,1938-06-14,Brazil,Czechoslovakia,,,,,FIFA World Cup,,,,,,Quarter-finals, ,FIFAWorldCup1938
+23986,1938-06-16,Hungary,Sweden,,,,,FIFA World Cup,,,,,,Semi-finals, ,FIFAWorldCup1938
+23987,1938-06-16,Italy,Brazil,,,,,FIFA World Cup,,,,,,Semi-finals, ,FIFAWorldCup1938
+23988,1938-06-19,Brazil,Sweden,,,,,FIFA World Cup,,,,,,Match for third place, ,FIFAWorldCup1938
+23989,1938-06-19,Italy,Hungary,,,,,FIFA World Cup,,,,,,Final, ,FIFAWorldCup1938
+23990,1950-06-24,Brazil,Mexico,,,,,FIFA World Cup,,,,,,Group 1, ,FIFAWorldCup1950
+23991,1950-06-25,England,Chile,,,,,FIFA World Cup,,,,,,Group 2, ,FIFAWorldCup1950
+23992,1950-06-25,Spain,USA,,,,,FIFA World Cup,,,,,,Group 2, ,FIFAWorldCup1950
+23993,1950-06-25,Sweden,Italy,,,,,FIFA World Cup,,,,,,Group 3, ,FIFAWorldCup1950
+23994,1950-06-25,Yugoslavia,Switzerland,,,,,FIFA World Cup,,,,,,Group 1, ,FIFAWorldCup1950
+23995,1950-06-28,Brazil,Switzerland,,,,,FIFA World Cup,,,,,,Group 1, ,FIFAWorldCup1950
+23996,1950-06-28,Yugoslavia,Mexico,,,,,FIFA World Cup,,,,,,Group 1, ,FIFAWorldCup1950
+23997,1950-06-29,Spain,Chile,,,,,FIFA World Cup,,,,,,Group 2, ,FIFAWorldCup1950
+23998,1950-06-29,Sweden,Paraguay,,,,,FIFA World Cup,,,,,,Group 3, ,FIFAWorldCup1950
+23999,1950-06-29,USA,England,,,,,FIFA World Cup,,,,,,Group 2, ,FIFAWorldCup1950
+24000,1950-07-01,Brazil,Yugoslavia,,,,,FIFA World Cup,,,,,,Group 1, ,FIFAWorldCup1950
+24001,1950-07-02,Spain,England,,,,,FIFA World Cup,,,,,,Group 2, ,FIFAWorldCup1950
+24002,1950-07-02,Italy,Paraguay,,,,,FIFA World Cup,,,,,,Group 3, ,FIFAWorldCup1950
+24003,1950-07-02,Uruguay,Bolivia,,,,,FIFA World Cup,,,,,,Group 4, ,FIFAWorldCup1950
+24004,1950-07-02,Switzerland,Mexico,,,,,FIFA World Cup,,,,,,Group 1, ,FIFAWorldCup1950
+24005,1950-07-02,Chile,USA,,,,,FIFA World Cup,,,,,,Group 2, ,FIFAWorldCup1950
+24006,1950-07-09,Uruguay,Spain,,,,,FIFA World Cup,,,,,,Group 6, ,FIFAWorldCup1950
+24007,1950-07-09,Brazil,Sweden,,,,,FIFA World Cup,,,,,,Group 6, ,FIFAWorldCup1950
+24008,1950-07-13,Brazil,Spain,,,,,FIFA World Cup,,,,,,Group 6, ,FIFAWorldCup1950
+24009,1950-07-13,Uruguay,Sweden,,,,,FIFA World Cup,,,,,,Group 6, ,FIFAWorldCup1950
+24010,1950-07-16,Sweden,Spain,,,,,FIFA World Cup,,,,,,Group 6, ,FIFAWorldCup1950
+24011,1950-07-16,Uruguay,Brazil,,,,,FIFA World Cup,,,,,,Group 6, ,FIFAWorldCup1950
+24012,1954-06-16,Uruguay,Czechoslovakia,,,,,FIFA World Cup,,,,,,Group 3, ,FIFAWorldCup1954
+24013,1954-06-16,Austria,Scotland,,,,,FIFA World Cup,,,,,,Group 3, ,FIFAWorldCup1954
+24014,1954-06-16,Brazil,Mexico,,,,,FIFA World Cup,,,,,,Group 1, ,FIFAWorldCup1954
+24015,1954-06-16,Yugoslavia,France,,,,,FIFA World Cup,,,,,,Group 1, ,FIFAWorldCup1954
+24016,1954-06-17,Germany FR,Turkey,,,,,FIFA World Cup,,,,,,Group 2, ,FIFAWorldCup1954
+24017,1954-06-17,Hungary,Korea Republic,,,,,FIFA World Cup,,,,,,Group 2, ,FIFAWorldCup1954
+24018,1954-06-17,England,Belgium,,,,,FIFA World Cup,,,,,,Group 4, ,FIFAWorldCup1954
+24019,1954-06-17,Switzerland,Italy,,,,,FIFA World Cup,,,,,,Group 4, ,FIFAWorldCup1954
+24020,1954-06-19,Uruguay,Scotland,,,,,FIFA World Cup,,,,,,Group 3, ,FIFAWorldCup1954
+24021,1954-06-19,Austria,Czechoslovakia,,,,,FIFA World Cup,,,,,,Group 3, ,FIFAWorldCup1954
+24022,1954-06-19,France,Mexico,,,,,FIFA World Cup,,,,,,Group 1, ,FIFAWorldCup1954
+24023,1954-06-19,Brazil,Yugoslavia,,,,,FIFA World Cup,,,,,,Group 1, ,FIFAWorldCup1954
+24024,1954-06-20,Hungary,Germany FR,,,,,FIFA World Cup,,,,,,Group 2, ,FIFAWorldCup1954
+24025,1954-06-20,Turkey,Korea Republic,,,,,FIFA World Cup,,,,,,Group 2, ,FIFAWorldCup1954
+24026,1954-06-20,England,Switzerland,,,,,FIFA World Cup,,,,,,Group 4, ,FIFAWorldCup1954
+24027,1954-06-20,Italy,Belgium,,,,,FIFA World Cup,,,,,,Group 4, ,FIFAWorldCup1954
+24028,1954-06-23,Germany FR,Turkey,,,,,FIFA World Cup,,,,,,Group 2, ,FIFAWorldCup1954
+24029,1954-06-23,Switzerland,Italy,,,,,FIFA World Cup,,,,,,Group 4, ,FIFAWorldCup1954
+24030,1954-06-26,Uruguay,England,,,,,FIFA World Cup,,,,,,Quarter-finals, ,FIFAWorldCup1954
+24031,1954-06-26,Austria,Switzerland,,,,,FIFA World Cup,,,,,,Quarter-finals, ,FIFAWorldCup1954
+24032,1954-06-27,Germany FR,Yugoslavia,,,,,FIFA World Cup,,,,,,Quarter-finals, ,FIFAWorldCup1954
+24033,1954-06-27,Hungary,Brazil,,,,,FIFA World Cup,,,,,,Quarter-finals, ,FIFAWorldCup1954
+24034,1954-06-30,Germany FR,Austria,,,,,FIFA World Cup,,,,,,Semi-finals, ,FIFAWorldCup1954
+24035,1954-06-30,Hungary,Uruguay,,,,,FIFA World Cup,,,,,,Semi-finals,Hungary win after extra time ,FIFAWorldCup1954
+24036,1954-07-03,Austria,Uruguay,,,,,FIFA World Cup,,,,,,Match for third place, ,FIFAWorldCup1954
+24037,1954-07-04,Germany FR,Hungary,,,,,FIFA World Cup,,,,,,Final, ,FIFAWorldCup1954
+24038,1958-06-08,Sweden,Mexico,,,,,FIFA World Cup,,,,,,Group 3, ,FIFAWorldCup1958
+24039,1958-06-08,Soviet Union,England,,,,,FIFA World Cup,,,,,,Group 4, ,FIFAWorldCup1958
+24040,1958-06-08,Argentina,Germany FR,,,,,FIFA World Cup,,,,,,Group 1, ,FIFAWorldCup1958
+24041,1958-06-08,Hungary,Wales,,,,,FIFA World Cup,,,,,,Group 3, ,FIFAWorldCup1958
+24042,1958-06-08,France,Paraguay,,,,,FIFA World Cup,,,,,,Group 2, ,FIFAWorldCup1958
+24043,1958-06-08,Yugoslavia,Scotland,,,,,FIFA World Cup,,,,,,Group 2, ,FIFAWorldCup1958
+24044,1958-06-08,Brazil,Austria,,,,,FIFA World Cup,,,,,,Group 4, ,FIFAWorldCup1958
+24045,1958-06-08,Northern Ireland,Czechoslovakia,,,,,FIFA World Cup,,,,,,Group 1, ,FIFAWorldCup1958
+24046,1958-06-11,Brazil,England,,,,,FIFA World Cup,,,,,,Group 4, ,FIFAWorldCup1958
+24047,1958-06-11,Mexico,Wales,,,,,FIFA World Cup,,,,,,Group 3, ,FIFAWorldCup1958
+24048,1958-06-11,Paraguay,Scotland,,,,,FIFA World Cup,,,,,,Group 2, ,FIFAWorldCup1958
+24049,1958-06-11,Yugoslavia,France,,,,,FIFA World Cup,,,,,,Group 2, ,FIFAWorldCup1958
+24050,1958-06-11,Soviet Union,Austria,,,,,FIFA World Cup,,,,,,Group 4, ,FIFAWorldCup1958
+24051,1958-06-11,Germany FR,Czechoslovakia,,,,,FIFA World Cup,,,,,,Group 1, ,FIFAWorldCup1958
+24052,1958-06-11,Argentina,Northern Ireland,,,,,FIFA World Cup,,,,,,Group 1, ,FIFAWorldCup1958
+24053,1958-06-12,Sweden,Hungary,,,,,FIFA World Cup,,,,,,Group 3, ,FIFAWorldCup1958
+24054,1958-06-15,Sweden,Wales,,,,,FIFA World Cup,,,,,,Group 3, ,FIFAWorldCup1958
+24055,1958-06-15,Brazil,Soviet Union,,,,,FIFA World Cup,,,,,,Group 4, ,FIFAWorldCup1958
+24056,1958-06-15,Germany FR,Northern Ireland,,,,,FIFA World Cup,,,,,,Group 1, ,FIFAWorldCup1958
+24057,1958-06-15,Hungary,Mexico,,,,,FIFA World Cup,,,,,,Group 3, ,FIFAWorldCup1958
+24058,1958-06-15,Paraguay,Yugoslavia,,,,,FIFA World Cup,,,,,,Group 2, ,FIFAWorldCup1958
+24059,1958-06-15,France,Scotland,,,,,FIFA World Cup,,,,,,Group 2, ,FIFAWorldCup1958
+24060,1958-06-15,England,Austria,,,,,FIFA World Cup,,,,,,Group 4, ,FIFAWorldCup1958
+24061,1958-06-15,Czechoslovakia,Argentina,,,,,FIFA World Cup,,,,,,Group 1, ,FIFAWorldCup1958
+24062,1958-06-17,Soviet Union,England,,,,,FIFA World Cup,,,,,,Group 4, ,FIFAWorldCup1958
+24063,1958-06-17,Northern Ireland,Czechoslovakia,,,,,FIFA World Cup,,,,,,Group 1,Northern Ireland win after extra time ,FIFAWorldCup1958
+24064,1958-06-17,Wales,Hungary,,,,,FIFA World Cup,,,,,,Group 3, ,FIFAWorldCup1958
+24065,1958-06-19,Brazil,Wales,,,,,FIFA World Cup,,,,,,Quarter-finals, ,FIFAWorldCup1958
+24066,1958-06-19,Germany FR,Yugoslavia,,,,,FIFA World Cup,,,,,,Quarter-finals, ,FIFAWorldCup1958
+24067,1958-06-19,Sweden,Soviet Union,,,,,FIFA World Cup,,,,,,Quarter-finals, ,FIFAWorldCup1958
+24068,1958-06-19,France,Northern Ireland,,,,,FIFA World Cup,,,,,,Quarter-finals, ,FIFAWorldCup1958
+24069,1958-06-24,Sweden,Germany FR,,,,,FIFA World Cup,,,,,,Semi-finals, ,FIFAWorldCup1958
+24070,1958-06-24,Brazil,France,,,,,FIFA World Cup,,,,,,Semi-finals, ,FIFAWorldCup1958
+24071,1958-06-28,France,Germany FR,,,,,FIFA World Cup,,,,,,Match for third place, ,FIFAWorldCup1958
+24072,1958-06-29,Brazil,Sweden,,,,,FIFA World Cup,,,,,,Final, ,FIFAWorldCup1958
+24073,1962-05-30,Uruguay,Colombia,,,,,FIFA World Cup,,,,,,Group 1, ,FIFAWorldCup1962
+24074,1962-05-30,Brazil,Mexico,,,,,FIFA World Cup,,,,,,Group 3, ,FIFAWorldCup1962
+24075,1962-05-30,Argentina,Bulgaria,,,,,FIFA World Cup,,,,,,Group 4, ,FIFAWorldCup1962
+24076,1962-05-30,Chile,Switzerland,,,,,FIFA World Cup,,,,,,Group 2, ,FIFAWorldCup1962
+24077,1962-05-31,Soviet Union,Yugoslavia,,,,,FIFA World Cup,,,,,,Group 1, ,FIFAWorldCup1962
+24078,1962-05-31,Czechoslovakia,Spain,,,,,FIFA World Cup,,,,,,Group 3, ,FIFAWorldCup1962
+24079,1962-05-31,Hungary,England,,,,,FIFA World Cup,,,,,,Group 4, ,FIFAWorldCup1962
+24080,1962-05-31,Germany FR,Italy,,,,,FIFA World Cup,,,,,,Group 2, ,FIFAWorldCup1962
+24081,1962-06-02,Yugoslavia,Uruguay,,,,,FIFA World Cup,,,,,,Group 1, ,FIFAWorldCup1962
+24082,1962-06-02,Brazil,Czechoslovakia,,,,,FIFA World Cup,,,,,,Group 3, ,FIFAWorldCup1962
+24083,1962-06-02,England,Argentina,,,,,FIFA World Cup,,,,,,Group 4, ,FIFAWorldCup1962
+24084,1962-06-02,Chile,Italy,,,,,FIFA World Cup,,,,,,Group 2, ,FIFAWorldCup1962
+24085,1962-06-03,Soviet Union,Colombia,,,,,FIFA World Cup,,,,,,Group 1, ,FIFAWorldCup1962
+24086,1962-06-03,Spain,Mexico,,,,,FIFA World Cup,,,,,,Group 3, ,FIFAWorldCup1962
+24087,1962-06-03,Hungary,Bulgaria,,,,,FIFA World Cup,,,,,,Group 4, ,FIFAWorldCup1962
+24088,1962-06-03,Germany FR,Switzerland,,,,,FIFA World Cup,,,,,,Group 2, ,FIFAWorldCup1962
+24089,1962-06-06,Soviet Union,Uruguay,,,,,FIFA World Cup,,,,,,Group 1, ,FIFAWorldCup1962
+24090,1962-06-06,Brazil,Spain,,,,,FIFA World Cup,,,,,,Group 3, ,FIFAWorldCup1962
+24091,1962-06-06,Hungary,Argentina,,,,,FIFA World Cup,,,,,,Group 4, ,FIFAWorldCup1962
+24092,1962-06-06,Germany FR,Chile,,,,,FIFA World Cup,,,,,,Group 2, ,FIFAWorldCup1962
+24093,1962-06-07,Yugoslavia,Colombia,,,,,FIFA World Cup,,,,,,Group 1, ,FIFAWorldCup1962
+24094,1962-06-07,Mexico,Czechoslovakia,,,,,FIFA World Cup,,,,,,Group 3, ,FIFAWorldCup1962
+24095,1962-06-07,England,Bulgaria,,,,,FIFA World Cup,,,,,,Group 4, ,FIFAWorldCup1962
+24096,1962-06-07,Italy,Switzerland,,,,,FIFA World Cup,,,,,,Group 2, ,FIFAWorldCup1962
+24097,1962-06-10,Chile,Soviet Union,,,,,FIFA World Cup,,,,,,Quarter-finals, ,FIFAWorldCup1962
+24098,1962-06-10,Brazil,England,,,,,FIFA World Cup,,,,,,Quarter-finals, ,FIFAWorldCup1962
+24099,1962-06-10,Czechoslovakia,Hungary,,,,,FIFA World Cup,,,,,,Quarter-finals, ,FIFAWorldCup1962
+24100,1962-06-10,Yugoslavia,Germany FR,,,,,FIFA World Cup,,,,,,Quarter-finals, ,FIFAWorldCup1962
+24101,1962-06-13,Czechoslovakia,Yugoslavia,,,,,FIFA World Cup,,,,,,Semi-finals, ,FIFAWorldCup1962
+24102,1962-06-13,Brazil,Chile,,,,,FIFA World Cup,,,,,,Semi-finals, ,FIFAWorldCup1962
+24103,1962-06-16,Chile,Yugoslavia,,,,,FIFA World Cup,,,,,,Match for third place, ,FIFAWorldCup1962
+24104,1962-06-17,Brazil,Czechoslovakia,,,,,FIFA World Cup,,,,,,Final, ,FIFAWorldCup1962
+24105,1966-07-11,England,Uruguay,,,,,FIFA World Cup,,,,,,Group 1, ,FIFAWorldCup1966
+24106,1966-07-12,Germany FR,Switzerland,,,,,FIFA World Cup,,,,,,Group 2, ,FIFAWorldCup1966
+24107,1966-07-12,Brazil,Bulgaria,,,,,FIFA World Cup,,,,,,Group 3, ,FIFAWorldCup1966
+24108,1966-07-12,Soviet Union,Korea DPR,,,,,FIFA World Cup,,,,,,Group 4, ,FIFAWorldCup1966
+24109,1966-07-13,France,Mexico,,,,,FIFA World Cup,,,,,,Group 1, ,FIFAWorldCup1966
+24110,1966-07-13,Portugal,Hungary,,,,,FIFA World Cup,,,,,,Group 3, ,FIFAWorldCup1966
+24111,1966-07-13,Argentina,Spain,,,,,FIFA World Cup,,,,,,Group 2, ,FIFAWorldCup1966
+24112,1966-07-13,Italy,Chile,,,,,FIFA World Cup,,,,,,Group 4, ,FIFAWorldCup1966
+24113,1966-07-15,Uruguay,France,,,,,FIFA World Cup,,,,,,Group 1, ,FIFAWorldCup1966
+24114,1966-07-15,Spain,Switzerland,,,,,FIFA World Cup,,,,,,Group 2, ,FIFAWorldCup1966
+24115,1966-07-15,Hungary,Brazil,,,,,FIFA World Cup,,,,,,Group 3, ,FIFAWorldCup1966
+24116,1966-07-15,Korea DPR,Chile,,,,,FIFA World Cup,,,,,,Group 4, ,FIFAWorldCup1966
+24117,1966-07-16,Portugal,Bulgaria,,,,,FIFA World Cup,,,,,,Group 3, ,FIFAWorldCup1966
+24118,1966-07-16,Germany FR,Argentina,,,,,FIFA World Cup,,,,,,Group 2, ,FIFAWorldCup1966
+24119,1966-07-16,Soviet Union,Italy,,,,,FIFA World Cup,,,,,,Group 4, ,FIFAWorldCup1966
+24120,1966-07-16,England,Mexico,,,,,FIFA World Cup,,,,,,Group 1, ,FIFAWorldCup1966
+24121,1966-07-19,Uruguay,Mexico,,,,,FIFA World Cup,,,,,,Group 1, ,FIFAWorldCup1966
+24122,1966-07-19,Argentina,Switzerland,,,,,FIFA World Cup,,,,,,Group 2, ,FIFAWorldCup1966
+24123,1966-07-19,Portugal,Brazil,,,,,FIFA World Cup,,,,,,Group 3, ,FIFAWorldCup1966
+24124,1966-07-19,Korea DPR,Italy,,,,,FIFA World Cup,,,,,,Group 4, ,FIFAWorldCup1966
+24125,1966-07-20,England,France,,,,,FIFA World Cup,,,,,,Group 1, ,FIFAWorldCup1966
+24126,1966-07-20,Hungary,Bulgaria,,,,,FIFA World Cup,,,,,,Group 3, ,FIFAWorldCup1966
+24127,1966-07-20,Germany FR,Spain,,,,,FIFA World Cup,,,,,,Group 2, ,FIFAWorldCup1966
+24128,1966-07-20,Soviet Union,Chile,,,,,FIFA World Cup,,,,,,Group 4, ,FIFAWorldCup1966
+24129,1966-07-23,England,Argentina,,,,,FIFA World Cup,,,,,,Quarter-finals, ,FIFAWorldCup1966
+24130,1966-07-23,Germany FR,Uruguay,,,,,FIFA World Cup,,,,,,Quarter-finals, ,FIFAWorldCup1966
+24131,1966-07-23,Soviet Union,Hungary,,,,,FIFA World Cup,,,,,,Quarter-finals, ,FIFAWorldCup1966
+24132,1966-07-23,Portugal,Korea DPR,,,,,FIFA World Cup,,,,,,Quarter-finals, ,FIFAWorldCup1966
+24133,1966-07-25,Germany FR,Soviet Union,,,,,FIFA World Cup,,,,,,Semi-finals, ,FIFAWorldCup1966
+24134,1966-07-26,England,Portugal,,,,,FIFA World Cup,,,,,,Semi-finals, ,FIFAWorldCup1966
+24135,1966-07-28,Portugal,Soviet Union,,,,,FIFA World Cup,,,,,,Match for third place, ,FIFAWorldCup1966
+24136,1966-07-30,England,Germany FR,,,,,FIFA World Cup,,,,,,Final,England win after extra time ,FIFAWorldCup1966
+24137,1970-05-31,Mexico,Soviet Union,,,,,FIFA World Cup,,,,,,Group 1, ,FIFAWorldCup1970
+24138,1970-06-02,Uruguay,Israel,,,,,FIFA World Cup,,,,,,Group 2, ,FIFAWorldCup1970
+24139,1970-06-02,Peru,Bulgaria,,,,,FIFA World Cup,,,,,,Group 4, ,FIFAWorldCup1970
+24140,1970-06-02,England,Romania,,,,,FIFA World Cup,,,,,,Group 3, ,FIFAWorldCup1970
+24141,1970-06-03,Italy,Sweden,,,,,FIFA World Cup,,,,,,Group 2, ,FIFAWorldCup1970
+24142,1970-06-03,Germany FR,Morocco,,,,,FIFA World Cup,,,,,,Group 4, ,FIFAWorldCup1970
+24143,1970-06-03,Brazil,Czechoslovakia,,,,,FIFA World Cup,,,,,,Group 3, ,FIFAWorldCup1970
+24144,1970-06-03,Belgium,El Salvador,,,,,FIFA World Cup,,,,,,Group 1, ,FIFAWorldCup1970
+24145,1970-06-06,Uruguay,Italy,,,,,FIFA World Cup,,,,,,Group 2, ,FIFAWorldCup1970
+24146,1970-06-06,Peru,Morocco,,,,,FIFA World Cup,,,,,,Group 4, ,FIFAWorldCup1970
+24147,1970-06-06,Romania,Czechoslovakia,,,,,FIFA World Cup,,,,,,Group 3, ,FIFAWorldCup1970
+24148,1970-06-06,Soviet Union,Belgium,,,,,FIFA World Cup,,,,,,Group 1, ,FIFAWorldCup1970
+24149,1970-06-07,Sweden,Israel,,,,,FIFA World Cup,,,,,,Group 2, ,FIFAWorldCup1970
+24150,1970-06-07,Germany FR,Bulgaria,,,,,FIFA World Cup,,,,,,Group 4, ,FIFAWorldCup1970
+24151,1970-06-07,Brazil,England,,,,,FIFA World Cup,,,,,,Group 3, ,FIFAWorldCup1970
+24152,1970-06-07,Mexico,El Salvador,,,,,FIFA World Cup,,,,,,Group 1, ,FIFAWorldCup1970
+24153,1970-06-10,Sweden,Uruguay,,,,,FIFA World Cup,,,,,,Group 2, ,FIFAWorldCup1970
+24154,1970-06-10,Germany FR,Peru,,,,,FIFA World Cup,,,,,,Group 4, ,FIFAWorldCup1970
+24155,1970-06-10,Brazil,Romania,,,,,FIFA World Cup,,,,,,Group 3, ,FIFAWorldCup1970
+24156,1970-06-10,Soviet Union,El Salvador,,,,,FIFA World Cup,,,,,,Group 1, ,FIFAWorldCup1970
+24157,1970-06-11,Italy,Israel,,,,,FIFA World Cup,,,,,,Group 2, ,FIFAWorldCup1970
+24158,1970-06-11,Bulgaria,Morocco,,,,,FIFA World Cup,,,,,,Group 4, ,FIFAWorldCup1970
+24159,1970-06-11,England,Czechoslovakia,,,,,FIFA World Cup,,,,,,Group 3, ,FIFAWorldCup1970
+24160,1970-06-11,Mexico,Belgium,,,,,FIFA World Cup,,,,,,Group 1, ,FIFAWorldCup1970
+24161,1970-06-14,Italy,Mexico,,,,,FIFA World Cup,,,,,,Quarter-finals, ,FIFAWorldCup1970
+24162,1970-06-14,Germany FR,England,,,,,FIFA World Cup,,,,,,Quarter-finals,Germany FR win after extra time ,FIFAWorldCup1970
+24163,1970-06-14,Brazil,Peru,,,,,FIFA World Cup,,,,,,Quarter-finals, ,FIFAWorldCup1970
+24164,1970-06-14,Uruguay,Soviet Union,,,,,FIFA World Cup,,,,,,Quarter-finals,Uruguay win after extra time ,FIFAWorldCup1970
+24165,1970-06-17,Brazil,Uruguay,,,,,FIFA World Cup,,,,,,Semi-finals, ,FIFAWorldCup1970
+24166, 197-06-17,Italy,Germany FR,,,,,FIFA World Cup,,,,,,Semi-finals,Italy win after extra time ,FIFAWorldCup1970
+24167,1970-06-20,Germany FR,Uruguay,,,,,FIFA World Cup,,,,,,Match for third place, ,FIFAWorldCup1970
+24168,1970-06-21,Brazil,Italy,,,,,FIFA World Cup,,,,,,Final, ,FIFAWorldCup1970
+24169,1974-06-13,Brazil,Yugoslavia,,,,,FIFA World Cup,,,,,,Group 2, ,FIFAWorldCup1974
+24170,1974-06-14,Germany FR,Chile,,,,,FIFA World Cup,,,,,,Group 1, ,FIFAWorldCup1974
+24171,1974-06-14,German DR,Australia,,,,,FIFA World Cup,,,,,,Group 1, ,FIFAWorldCup1974
+24172,1974-06-14,Zaire,Scotland,,,,,FIFA World Cup,,,,,,Group 2, ,FIFAWorldCup1974
+24173,1974-06-15,Uruguay,Netherlands,,,,,FIFA World Cup,,,,,,Group 3, ,FIFAWorldCup1974
+24174,1974-06-15,Sweden,Bulgaria,,,,,FIFA World Cup,,,,,,Group 3, ,FIFAWorldCup1974
+24175,1974-06-15,Italy,Haiti,,,,,FIFA World Cup,,,,,,Group 4, ,FIFAWorldCup1974
+24176,1974-06-15,Poland,Argentina,,,,,FIFA World Cup,,,,,,Group 4, ,FIFAWorldCup1974
+24177,1974-06-18,Australia,Germany FR,,,,,FIFA World Cup,,,,,,Group 1, ,FIFAWorldCup1974
+24178,1974-06-18,Scotland,Brazil,,,,,FIFA World Cup,,,,,,Group 2, ,FIFAWorldCup1974
+24179,1974-06-18,Chile,German DR,,,,,FIFA World Cup,,,,,,Group 1, ,FIFAWorldCup1974
+24180,1974-06-18,Yugoslavia,Zaire,,,,,FIFA World Cup,,,,,,Group 2, ,FIFAWorldCup1974
+24181,1974-06-19,Netherlands,Sweden,,,,,FIFA World Cup,,,,,,Group 3, ,FIFAWorldCup1974
+24182,1974-06-19,Bulgaria,Uruguay,,,,,FIFA World Cup,,,,,,Group 3, ,FIFAWorldCup1974
+24183,1974-06-19,Haiti,Poland,,,,,FIFA World Cup,,,,,,Group 4, ,FIFAWorldCup1974
+24184,1974-06-19,Argentina,Italy,,,,,FIFA World Cup,,,,,,Group 4, ,FIFAWorldCup1974
+24185,1974-06-22,Scotland,Yugoslavia,,,,,FIFA World Cup,,,,,,Group 2, ,FIFAWorldCup1974
+24186,1974-06-22,Australia,Chile,,,,,FIFA World Cup,,,,,,Group 1, ,FIFAWorldCup1974
+24187,1974-06-22,Zaire,Brazil,,,,,FIFA World Cup,,,,,,Group 2, ,FIFAWorldCup1974
+24188, 197-06-22,German DR,Germany FR,,,,,FIFA World Cup,,,,,,Group 1, ,FIFAWorldCup1974
+24189,1974-06-23,Bulgaria,Netherlands,,,,,FIFA World Cup,,,,,,Group 3, ,FIFAWorldCup1974
+24190,1974-06-23,Argentina,Haiti,,,,,FIFA World Cup,,,,,,Group 4, ,FIFAWorldCup1974
+24191,1974-06-23,Sweden,Uruguay,,,,,FIFA World Cup,,,,,,Group 3, ,FIFAWorldCup1974
+24192,1974-06-23,Poland,Italy,,,,,FIFA World Cup,,,,,,Group 4, ,FIFAWorldCup1974
+24193,1974-06-26,Yugoslavia,Germany FR,,,,,FIFA World Cup,,,,,,Group B, ,FIFAWorldCup1974
+24194,1974-06-26,Brazil,German DR,,,,,FIFA World Cup,,,,,,Group A, ,FIFAWorldCup1974
+24195,1974-06-26,Netherlands,Argentina,,,,,FIFA World Cup,,,,,,Group A, ,FIFAWorldCup1974
+24196,1974-06-26,Sweden,Poland,,,,,FIFA World Cup,,,,,,Group B, ,FIFAWorldCup1974
+24197,1974-06-30,Argentina,Brazil,,,,,FIFA World Cup,,,,,,Group A, ,FIFAWorldCup1974
+24198,1974-06-30,Poland,Yugoslavia,,,,,FIFA World Cup,,,,,,Group B, ,FIFAWorldCup1974
+24199,1974-06-30,German DR,Netherlands,,,,,FIFA World Cup,,,,,,Group A, ,FIFAWorldCup1974
+24200,1974-06-30,Germany FR,Sweden,,,,,FIFA World Cup,,,,,,Group B, ,FIFAWorldCup1974
+24201,1974-07-03,Poland,Germany FR,,,,,FIFA World Cup,,,,,,Group B, ,FIFAWorldCup1974
+24202,1974-07-03,Netherlands,Brazil,,,,,FIFA World Cup,,,,,,Group A, ,FIFAWorldCup1974
+24203,1974-07-03,Argentina,German DR,,,,,FIFA World Cup,,,,,,Group A, ,FIFAWorldCup1974
+24204,1974-07-03,Sweden,Yugoslavia,,,,,FIFA World Cup,,,,,,Group B, ,FIFAWorldCup1974
+24205,1974-07-06,Brazil,Poland,,,,,FIFA World Cup,,,,,,Match for third place, ,FIFAWorldCup1974
+24206, 197-07-07,Netherlands,Germany FR,,,,,FIFA World Cup,,,,,,Final, ,FIFAWorldCup1974
+24207,1978-06-01,Germany FR,Poland,,,,,FIFA World Cup,,,,,,Group 2, ,FIFAWorldCup1978
+24208,1978-06-02,Italy,France,,,,,FIFA World Cup,,,,,,Group 1, ,FIFAWorldCup1978
+24209,1978-06-02,Tunisia,Mexico,,,,,FIFA World Cup,,,,,,Group 2, ,FIFAWorldCup1978
+24210,1978-06-02,Argentina,Hungary,,,,,FIFA World Cup,,,,,,Group 1, ,FIFAWorldCup1978
+24211,1978-06-03,Sweden,Brazil,,,,,FIFA World Cup,,,,,,Group 3, ,FIFAWorldCup1978
+24212,1978-06-03,Austria,Spain,,,,,FIFA World Cup,,,,,,Group 3, ,FIFAWorldCup1978
+24213,1978-06-03,Peru,Scotland,,,,,FIFA World Cup,,,,,,Group 4, ,FIFAWorldCup1978
+24214,1978-06-03,Netherlands,IR Iran,,,,,FIFA World Cup,,,,,,Group 4, ,FIFAWorldCup1978
+24215,1978-06-06,Italy,Hungary,,,,,FIFA World Cup,,,,,,Group 1, ,FIFAWorldCup1978
+24216,1978-06-06,Poland,Tunisia,,,,,FIFA World Cup,,,,,,Group 2, ,FIFAWorldCup1978
+24217,1978-06-06,Germany FR,Mexico,,,,,FIFA World Cup,,,,,,Group 2, ,FIFAWorldCup1978
+24218,1978-06-06,Argentina,France,,,,,FIFA World Cup,,,,,,Group 1, ,FIFAWorldCup1978
+24219,1978-06-07,Brazil,Spain,,,,,FIFA World Cup,,,,,,Group 3, ,FIFAWorldCup1978
+24220,1978-06-07,Austria,Sweden,,,,,FIFA World Cup,,,,,,Group 3, ,FIFAWorldCup1978
+24221,1978-06-07,Scotland,IR Iran,,,,,FIFA World Cup,,,,,,Group 4, ,FIFAWorldCup1978
+24222,1978-06-07,Netherlands,Peru,,,,,FIFA World Cup,,,,,,Group 4, ,FIFAWorldCup1978
+24223,1978-06-10,France,Hungary,,,,,FIFA World Cup,,,,,,Group 1, ,FIFAWorldCup1978
+24224,1978-06-10,Poland,Mexico,,,,,FIFA World Cup,,,,,,Group 2, ,FIFAWorldCup1978
+24225,1978-06-10,Germany FR,Tunisia,,,,,FIFA World Cup,,,,,,Group 2, ,FIFAWorldCup1978
+24226,1978-06-10,Italy,Argentina,,,,,FIFA World Cup,,,,,,Group 1, ,FIFAWorldCup1978
+24227,1978-06-11,Brazil,Austria,,,,,FIFA World Cup,,,,,,Group 3, ,FIFAWorldCup1978
+24228,1978-06-11,Spain,Sweden,,,,,FIFA World Cup,,,,,,Group 3, ,FIFAWorldCup1978
+24229,1978-06-11,Peru,Iran,,,,,FIFA World Cup,,,,,,Group 4, ,FIFAWorldCup1978
+24230,1978-06-11,Scotland,Netherlands,,,,,FIFA World Cup,,,,,,Group 4, ,FIFAWorldCup1978
+24231,1978-06-14,Germany FR,Italy,,,,,FIFA World Cup,,,,,,Group A, ,FIFAWorldCup1978
+24232,1978-06-14,Netherlands,Austria,,,,,FIFA World Cup,,,,,,Group A, ,FIFAWorldCup1978
+24233,1978-06-14,Brazil,Peru,,,,,FIFA World Cup,,,,,,Group B, ,FIFAWorldCup1978
+24234,1978-06-14,Argentina,Poland,,,,,FIFA World Cup,,,,,,Group B, ,FIFAWorldCup1978
+24235,1978-06-18,Poland,Peru,,,,,FIFA World Cup,,,,,,Group B, ,FIFAWorldCup1978
+24236,1978-06-18,Italy,Austria,,,,,FIFA World Cup,,,,,,Group A, ,FIFAWorldCup1978
+24237,1978-06-18,Germany FR,Netherlands,,,,,FIFA World Cup,,,,,,Group A, ,FIFAWorldCup1978
+24238,1978-06-18,Argentina,Brazil,,,,,FIFA World Cup,,,,,,Group B, ,FIFAWorldCup1978
+24239,1978-06-21,Netherlands,Italy,,,,,FIFA World Cup,,,,,,Group A, ,FIFAWorldCup1978
+24240,1978-06-21,Austria,Germany FR,,,,,FIFA World Cup,,,,,,Group A, ,FIFAWorldCup1978
+24241,1978-06-21,Brazil,Poland,,,,,FIFA World Cup,,,,,,Group B, ,FIFAWorldCup1978
+24242,1978-06-21,Argentina,Peru,,,,,FIFA World Cup,,,,,,Group B, ,FIFAWorldCup1978
+24243,1978-06-24,Brazil,Italy,,,,,FIFA World Cup,,,,,,Match for third place, ,FIFAWorldCup1978
+24244,1978-06-25,Argentina,Netherlands,,,,,FIFA World Cup,,,,,,Final,Argentina win after extra time ,FIFAWorldCup1978
+24245,1982-06-13,Argentina,Belgium,,,,,FIFA World Cup,,,,,,Group 3, ,FIFAWorldCup1982
+24246,1982-06-14,Italy,Poland,,,,,FIFA World Cup,,,,,,Group 1, ,FIFAWorldCup1982
+24247,1982-06-14,Brazil,Soviet Union,,,,,FIFA World Cup,,,,,,Group 6, ,FIFAWorldCup1982
+24248,1982-06-15,Peru,Cameroon,,,,,FIFA World Cup,,,,,,Group 1, ,FIFAWorldCup1982
+24249,1982-06-15,Hungary,El Salvador,,,,,FIFA World Cup,,,,,,Group 3, ,FIFAWorldCup1982
+24250,1982-06-15,Scotland,New Zealand,,,,,FIFA World Cup,,,,,,Group 6, ,FIFAWorldCup1982
+24251,1982-06-16,Germany FR,Algeria,,,,,FIFA World Cup,,,,,,Group 2, ,FIFAWorldCup1982
+24252,1982-06-16,England,France,,,,,FIFA World Cup,,,,,,Group 4, ,FIFAWorldCup1982
+24253,1982-06-16,Spain,Honduras,,,,,FIFA World Cup,,,,,,Group 5, ,FIFAWorldCup1982
+24254,1982-06-17,Chile,Austria,,,,,FIFA World Cup,,,,,,Group 2, ,FIFAWorldCup1982
+24255,1982-06-17,Czechoslovakia,Kuwait,,,,,FIFA World Cup,,,,,,Group 4, ,FIFAWorldCup1982
+24256,1982-06-17,Yugoslavia,Northern Ireland,,,,,FIFA World Cup,,,,,,Group 5, ,FIFAWorldCup1982
+24257,1982-06-18,Italy,Peru,,,,,FIFA World Cup,,,,,,Group 1, ,FIFAWorldCup1982
+24258,1982-06-18,Argentina,Hungary,,,,,FIFA World Cup,,,,,,Group 3, ,FIFAWorldCup1982
+24259,1982-06-18,Brazil,Scotland,,,,,FIFA World Cup,,,,,,Group 6, ,FIFAWorldCup1982
+24260,1982-06-19,Poland,Cameroon,,,,,FIFA World Cup,,,,,,Group 1, ,FIFAWorldCup1982
+24261,1982-06-19,Belgium,El Salvador,,,,,FIFA World Cup,,,,,,Group 3, ,FIFAWorldCup1982
+24262,1982-06-19,Soviet Union,New Zealand,,,,,FIFA World Cup,,,,,,Group 6, ,FIFAWorldCup1982
+24263,1982-06-20,Germany FR,Chile,,,,,FIFA World Cup,,,,,,Group 2, ,FIFAWorldCup1982
+24264,1982-06-20,England,Czechoslovakia,,,,,FIFA World Cup,,,,,,Group 4, ,FIFAWorldCup1982
+24265,1982-06-20,Spain,Yugoslavia,,,,,FIFA World Cup,,,,,,Group 5, ,FIFAWorldCup1982
+24266,1982-06-21,Algeria,Austria,,,,,FIFA World Cup,,,,,,Group 2, ,FIFAWorldCup1982
+24267,1982-06-21,France,Kuwait,,,,,FIFA World Cup,,,,,,Group 4, ,FIFAWorldCup1982
+24268,1982-06-21,Honduras,Northern Ireland,,,,,FIFA World Cup,,,,,,Group 5, ,FIFAWorldCup1982
+24269,1982-06-22,Poland,Peru,,,,,FIFA World Cup,,,,,,Group 1, ,FIFAWorldCup1982
+24270,1982-06-22,Belgium,Hungary,,,,,FIFA World Cup,,,,,,Group 3, ,FIFAWorldCup1982
+24271,1982-06-22,Soviet Union,Scotland,,,,,FIFA World Cup,,,,,,Group 6, ,FIFAWorldCup1982
+24272,1982-06-23,Italy,Cameroon,,,,,FIFA World Cup,,,,,,Group 1, ,FIFAWorldCup1982
+24273,1982-06-23,Argentina,El Salvador,,,,,FIFA World Cup,,,,,,Group 3, ,FIFAWorldCup1982
+24274,1982-06-23,Brazil,New Zealand,,,,,FIFA World Cup,,,,,,Group 6, ,FIFAWorldCup1982
+24275,1982-06-24,Algeria,Chile,,,,,FIFA World Cup,,,,,,Group 2, ,FIFAWorldCup1982
+24276,1982-06-24,France,Czechoslovakia,,,,,FIFA World Cup,,,,,,Group 4, ,FIFAWorldCup1982
+24277,1982-06-24,Honduras,Yugoslavia,,,,,FIFA World Cup,,,,,,Group 5, ,FIFAWorldCup1982
+24278,1982-06-25,Germany FR,Austria,,,,,FIFA World Cup,,,,,,Group 2, ,FIFAWorldCup1982
+24279,1982-06-25,England,Kuwait,,,,,FIFA World Cup,,,,,,Group 4, ,FIFAWorldCup1982
+24280,1982-06-25,Northern Ireland,Spain,,,,,FIFA World Cup,,,,,,Group 5, ,FIFAWorldCup1982
+24281,1982-06-28,Austria,France,,,,,FIFA World Cup,,,,,,Group 4, ,FIFAWorldCup1982
+24282,1982-06-28,Poland,Belgium,,,,,FIFA World Cup,,,,,,Group 1, ,FIFAWorldCup1982
+24283,1982-06-29,Italy,Argentina,,,,,FIFA World Cup,,,,,,Group 3, ,FIFAWorldCup1982
+24284,1982-06-29,Germany FR,England,,,,,FIFA World Cup,,,,,,Group 2, ,FIFAWorldCup1982
+24285,1982-07-01,Austria,Northern Ireland,,,,,FIFA World Cup,,,,,,Group 4, ,FIFAWorldCup1982
+24286,1982-07-01,Belgium,Soviet Union,,,,,FIFA World Cup,,,,,,Group 1, ,FIFAWorldCup1982
+24287,1982-07-02,Argentina,Brazil,,,,,FIFA World Cup,,,,,,Group 3, ,FIFAWorldCup1982
+24288,1982-07-02,Germany FR,Spain,,,,,FIFA World Cup,,,,,,Group 2, ,FIFAWorldCup1982
+24289,1982-07-04,France,Northern Ireland,,,,,FIFA World Cup,,,,,,Group 4, ,FIFAWorldCup1982
+24290,1982-07-04,Poland,Soviet Union,,,,,FIFA World Cup,,,,,,Group 1, ,FIFAWorldCup1982
+24291,1982-07-05,Italy,Brazil,,,,,FIFA World Cup,,,,,,Group 3, ,FIFAWorldCup1982
+24292,1982-07-05,Spain,England,,,,,FIFA World Cup,,,,,,Group 2, ,FIFAWorldCup1982
+24293,1982-07-08,Poland,Italy,,,,,FIFA World Cup,,,,,,Semi-finals, ,FIFAWorldCup1982
+24294,1982-07-08,Germany FR,France,,,,,FIFA World Cup,,,,,,Semi-finals, win on penalties (5 - 4) ,FIFAWorldCup1982
+24295,1982-07-10,Poland,France,,,,,FIFA World Cup,,,,,,Match for third place, ,FIFAWorldCup1982
+24296,1982-07-11,Italy,Germany FR,,,,,FIFA World Cup,,,,,,Final, ,FIFAWorldCup1982
+24297,1986-05-31,Bulgaria,Italy,,,,,FIFA World Cup,,,,,,Group A, ,FIFAWorldCup1986
+24298,1986-06-01,Canada,France,,,,,FIFA World Cup,,,,,,Group C, ,FIFAWorldCup1986
+24299,1986-06-01,Spain,Brazil,,,,,FIFA World Cup,,,,,,Group D, ,FIFAWorldCup1986
+24300,1986-06-02,Soviet Union,Hungary,,,,,FIFA World Cup,,,,,,Group C, ,FIFAWorldCup1986
+24301,1986-06-02,Argentina,Korea Republic,,,,,FIFA World Cup,,,,,,Group A, ,FIFAWorldCup1986
+24302,1986-06-02,Morocco,Poland,,,,,FIFA World Cup,,,,,,Group F, ,FIFAWorldCup1986
+24303,1986-06-03,Algeria,Northern Ireland,,,,,FIFA World Cup,,,,,,Group D, ,FIFAWorldCup1986
+24304,1986-06-03,Belgium,Mexico,,,,,FIFA World Cup,,,,,,Group B, ,FIFAWorldCup1986
+24305,1986-06-03,Portugal,England,,,,,FIFA World Cup,,,,,,Group F, ,FIFAWorldCup1986
+24306,1986-06-04,Paraguay,Iraq,,,,,FIFA World Cup,,,,,,Group B, ,FIFAWorldCup1986
+24307,1986-06-04,Scotland,Denmark,,,,,FIFA World Cup,,,,,,Group E, ,FIFAWorldCup1986
+24308,1986-06-04,Uruguay,Germany FR,,,,,FIFA World Cup,,,,,,Group E, ,FIFAWorldCup1986
+24309,1986-06-05,Italy,Argentina,,,,,FIFA World Cup,,,,,,Group A, ,FIFAWorldCup1986
+24310,1986-06-05,France,Soviet Union,,,,,FIFA World Cup,,,,,,Group C, ,FIFAWorldCup1986
+24311,1986-06-05,Korea Republic,Bulgaria,,,,,FIFA World Cup,,,,,,Group A, ,FIFAWorldCup1986
+24312,1986-06-06,Hungary,Canada,,,,,FIFA World Cup,,,,,,Group C, ,FIFAWorldCup1986
+24313,1986-06-06,Brazil,Algeria,,,,,FIFA World Cup,,,,,,Group D, ,FIFAWorldCup1986
+24314,1986-06-06,England,Morocco,,,,,FIFA World Cup,,,,,,Group F, ,FIFAWorldCup1986
+24315,1986-06-07,Northern Ireland,Spain,,,,,FIFA World Cup,,,,,,Group D, ,FIFAWorldCup1986
+24316,1986-06-07,Mexico,Paraguay,,,,,FIFA World Cup,,,,,,Group B, ,FIFAWorldCup1986
+24317,1986-06-07,Poland,Portugal,,,,,FIFA World Cup,,,,,,Group F, ,FIFAWorldCup1986
+24318,1986-06-08,Iraq,Belgium,,,,,FIFA World Cup,,,,,,Group B, ,FIFAWorldCup1986
+24319,1986-06-08,Denmark,Uruguay,,,,,FIFA World Cup,,,,,,Group E, ,FIFAWorldCup1986
+24320,1986-06-08,Germany FR,Scotland,,,,,FIFA World Cup,,,,,,Group E, ,FIFAWorldCup1986
+24321,1986-06-09,Hungary,France,,,,,FIFA World Cup,,,,,,Group C, ,FIFAWorldCup1986
+24322,1986-06-09,Soviet Union,Canada,,,,,FIFA World Cup,,,,,,Group C, ,FIFAWorldCup1986
+24323,1986-06-10,Korea Republic,Italy,,,,,FIFA World Cup,,,,,,Group A, ,FIFAWorldCup1986
+24324,1986-06-10,Argentina,Bulgaria,,,,,FIFA World Cup,,,,,,Group A, ,FIFAWorldCup1986
+24325,1986-06-11,Paraguay,Belgium,,,,,FIFA World Cup,,,,,,Group B, ,FIFAWorldCup1986
+24326,1986-06-11,Iraq,Mexico,,,,,FIFA World Cup,,,,,,Group B, ,FIFAWorldCup1986
+24327,1986-06-11,Portugal,Morocco,,,,,FIFA World Cup,,,,,,Group F, ,FIFAWorldCup1986
+24328,1986-06-11,England,Poland,,,,,FIFA World Cup,,,,,,Group F, ,FIFAWorldCup1986
+24329,1986-06-12,Northern Ireland,Brazil,,,,,FIFA World Cup,,,,,,Group D, ,FIFAWorldCup1986
+24330,1986-06-12,Algeria,Spain,,,,,FIFA World Cup,,,,,,Group D, ,FIFAWorldCup1986
+24331,1986-06-13,Scotland,Uruguay,,,,,FIFA World Cup,,,,,,Group E, ,FIFAWorldCup1986
+24332,1986-06-13,Denmark,Germany FR,,,,,FIFA World Cup,,,,,,Group E, ,FIFAWorldCup1986
+24333,1986-06-15,Soviet Union,Belgium,,,,,FIFA World Cup,,,,,,Round of 16,Belgium win after extra time ,FIFAWorldCup1986
+24334,1986-06-15,Mexico,Bulgaria,,,,,FIFA World Cup,,,,,,Round of 16, ,FIFAWorldCup1986
+24335,1986-06-16,Argentina,Uruguay,,,,,FIFA World Cup,,,,,,Round of 16, ,FIFAWorldCup1986
+24336,1986-06-16,Brazil,Poland,,,,,FIFA World Cup,,,,,,Round of 16, ,FIFAWorldCup1986
+24337,1986-06-17,Italy,France,,,,,FIFA World Cup,,,,,,Round of 16, ,FIFAWorldCup1986
+24338,1986-06-17,Morocco,Germany FR,,,,,FIFA World Cup,,,,,,Round of 16, ,FIFAWorldCup1986
+24339,1986-06-18,England,Paraguay,,,,,FIFA World Cup,,,,,,Round of 16, ,FIFAWorldCup1986
+24340,1986-06-18,Denmark,Spain,,,,,FIFA World Cup,,,,,,Round of 16, ,FIFAWorldCup1986
+24341,1986-06-21,Brazil,France,,,,,FIFA World Cup,,,,,,Quarter-finals,France win on penalties (3 - 4) ,FIFAWorldCup1986
+24342,1986-06-21,Germany FR,Mexico,,,,,FIFA World Cup,,,,,,Quarter-finals,Germany FR win on penalties (4 - 1) ,FIFAWorldCup1986
+24343,1986-06-22,Spain,Belgium,,,,,FIFA World Cup,,,,,,Quarter-finals,Belgium win on penalties (4 - 5) ,FIFAWorldCup1986
+24344,1986-06-22,Argentina,England,,,,,FIFA World Cup,,,,,,Quarter-finals, ,FIFAWorldCup1986
+24345,1986-06-25,France,Germany FR,,,,,FIFA World Cup,,,,,,Semi-finals, ,FIFAWorldCup1986
+24346,1986-06-25,Argentina,Belgium,,,,,FIFA World Cup,,,,,,Semi-finals, ,FIFAWorldCup1986
+24347,1986-06-28,France,Belgium,,,,,FIFA World Cup,,,,,,Match for third place,France win after extra time ,FIFAWorldCup1986
+24348,1986-06-29,Argentina,Germany FR,,,,,FIFA World Cup,,,,,,Final, ,FIFAWorldCup1986
+24349,1990-06-08,Argentina,Cameroon,,,,,FIFA World Cup,,,,,,Group B, ,FIFAWorldCup1990
+24350,1990-06-09,Soviet Union,Romania,,,,,FIFA World Cup,,,,,,Group B, ,FIFAWorldCup1990
+24351,1990-06-09,"rn"">United Arab Emirates",Colombia,,,,,FIFA World Cup,,,,,,Group D, ,FIFAWorldCup1990
+24352,1990-06-09,Italy,Austria,,,,,FIFA World Cup,,,,,,Group A, ,FIFAWorldCup1990
+24353,1990-06-10,USA,Czechoslovakia,,,,,FIFA World Cup,,,,,,Group A, ,FIFAWorldCup1990
+24354,1990-06-10,Brazil,Sweden,,,,,FIFA World Cup,,,,,,Group C, ,FIFAWorldCup1990
+24355,1990-06-10,Germany FR,Yugoslavia,,,,,FIFA World Cup,,,,,,Group D, ,FIFAWorldCup1990
+24356,1990-06-11,Costa Rica,Scotland,,,,,FIFA World Cup,,,,,,Group C, ,FIFAWorldCup1990
+24357,1990-06-11,England,"rn"">Republic of Ireland",,,,,FIFA World Cup,,,,,,Group F, ,FIFAWorldCup1990
+24358,1990-06-12,Belgium,Korea Republic,,,,,FIFA World Cup,,,,,,Group E, ,FIFAWorldCup1990
+24359,1990-06-12,Netherlands,Egypt,,,,,FIFA World Cup,,,,,,Group F, ,FIFAWorldCup1990
+24360,1990-06-13,Uruguay,Spain,,,,,FIFA World Cup,,,,,,Group E, ,FIFAWorldCup1990
+24361,1990-06-13,Argentina,Soviet Union,,,,,FIFA World Cup,,,,,,Group B, ,FIFAWorldCup1990
+24362,1990-06-14,Cameroon,Romania,,,,,FIFA World Cup,,,,,,Group B, ,FIFAWorldCup1990
+24363,1990-06-14,Yugoslavia,Colombia,,,,,FIFA World Cup,,,,,,Group D, ,FIFAWorldCup1990
+24364,1990-06-14,Italy,USA,,,,,FIFA World Cup,,,,,,Group A, ,FIFAWorldCup1990
+24365,1990-06-15,Austria,Czechoslovakia,,,,,FIFA World Cup,,,,,,Group A, ,FIFAWorldCup1990
+24366,1990-06-15,Germany FR,"rn"">United Arab Emirates",,,,,FIFA World Cup,,,,,,Group D, ,FIFAWorldCup1990
+24367,1990-06-16,Brazil,Costa Rica,,,,,FIFA World Cup,,,,,,Group C, ,FIFAWorldCup1990
+24368,1990-06-16,Sweden,Scotland,,,,,FIFA World Cup,,,,,,Group C, ,FIFAWorldCup1990
+24369,1990-06-16,England,Netherlands,,,,,FIFA World Cup,,,,,,Group F, ,FIFAWorldCup1990
+24370,1990-06-17,"rn"">Republic of Ireland",Egypt,,,,,FIFA World Cup,,,,,,Group F, ,FIFAWorldCup1990
+24371,1990-06-17,Korea Republic,Spain,,,,,FIFA World Cup,,,,,,Group E, ,FIFAWorldCup1990
+24372,1990-06-17,Belgium,Uruguay,,,,,FIFA World Cup,,,,,,Group E, ,FIFAWorldCup1990
+24373,1990-06-18,Argentina,Romania,,,,,FIFA World Cup,,,,,,Group B, ,FIFAWorldCup1990
+24374,1990-06-18,Cameroon,Soviet Union,,,,,FIFA World Cup,,,,,,Group B, ,FIFAWorldCup1990
+24375,1990-06-19,Germany FR,Colombia,,,,,FIFA World Cup,,,,,,Group D, ,FIFAWorldCup1990
+24376,1990-06-19,Yugoslavia,"rn"">United Arab Emirates",,,,,FIFA World Cup,,,,,,Group D, ,FIFAWorldCup1990
+24377,1990-06-19,Italy,Czechoslovakia,,,,,FIFA World Cup,,,,,,Group A, ,FIFAWorldCup1990
+24378,1990-06-19,Austria,USA,,,,,FIFA World Cup,,,,,,Group A, ,FIFAWorldCup1990
+24379,1990-06-20,Brazil,Scotland,,,,,FIFA World Cup,,,,,,Group C, ,FIFAWorldCup1990
+24380,1990-06-20,Sweden,Costa Rica,,,,,FIFA World Cup,,,,,,Group C, ,FIFAWorldCup1990
+24381,1990-06-21,Korea Republic,Uruguay,,,,,FIFA World Cup,,,,,,Group E, ,FIFAWorldCup1990
+24382,1990-06-21,Belgium,Spain,,,,,FIFA World Cup,,,,,,Group E, ,FIFAWorldCup1990
+24383,1990-06-21,"rn"">Republic of Ireland",Netherlands,,,,,FIFA World Cup,,,,,,Group F, ,FIFAWorldCup1990
+24384,1990-06-21,England,Egypt,,,,,FIFA World Cup,,,,,,Group F, ,FIFAWorldCup1990
+24385,1990-06-23,Cameroon,Colombia,,,,,FIFA World Cup,,,,,,Round of 16,Cameroon win after extra time ,FIFAWorldCup1990
+24386,1990-06-23,Czechoslovakia,Costa Rica,,,,,FIFA World Cup,,,,,,Round of 16, ,FIFAWorldCup1990
+24387,1990-06-24,Brazil,Argentina,,,,,FIFA World Cup,,,,,,Round of 16, ,FIFAWorldCup1990
+24388,1990-06-24,Germany FR,Netherlands,,,,,FIFA World Cup,,,,,,Round of 16, ,FIFAWorldCup1990
+24389,1990-06-25,"rn"">Republic of Ireland",Romania,,,,,FIFA World Cup,,,,,,Round of 16,Republic of Ireland win on penalties (5 - 4) ,FIFAWorldCup1990
+24390,1990-06-25,Italy,Uruguay,,,,,FIFA World Cup,,,,,,Round of 16, ,FIFAWorldCup1990
+24391,1990-06-26,Spain,Yugoslavia,,,,,FIFA World Cup,,,,,,Round of 16,Yugoslavia win after extra time ,FIFAWorldCup1990
+24392,1990-06-26,England,Belgium,,,,,FIFA World Cup,,,,,,Round of 16,England win after extra time ,FIFAWorldCup1990
+24393,1990-06-30,Yugoslavia,Argentina,,,,,FIFA World Cup,,,,,,Quarter-finals, win on penalties (2 - 3) ,FIFAWorldCup1990
+24394,1990-06-30,Italy,"rn"">Republic of Ireland",,,,,FIFA World Cup,,,,,,Quarter-finals, ,FIFAWorldCup1990
+24395,1990-07-01,Germany FR,Czechoslovakia,,,,,FIFA World Cup,,,,,,Quarter-finals, ,FIFAWorldCup1990
+24396,1990-07-01,England,Cameroon,,,,,FIFA World Cup,,,,,,Quarter-finals,England win after extra time ,FIFAWorldCup1990
+24397,1990-07-03,Italy,Argentina,,,,,FIFA World Cup,,,,,,Semi-finals, win on penalties (3 - 4) ,FIFAWorldCup1990
+24398,1990-07-04,Germany FR,England,,,,,FIFA World Cup,,,,,,Semi-finals, win on penalties (4 - 3) ,FIFAWorldCup1990
+24399,1990-07-07,Italy,England,,,,,FIFA World Cup,,,,,,Match for third place, ,FIFAWorldCup1990
+24400,1990-07-08,Germany FR,Argentina,,,,,FIFA World Cup,,,,,,Final, ,FIFAWorldCup1990
+24401,1994-06-18,Italy,"rn"">Republic of Ireland",,,,,FIFA World Cup,,,,,,Group E, ,FIFAWorldCup1994
+24402,1994-06-24,Mexico,"rn"">Republic of Ireland",,,,,FIFA World Cup,,,,,,Group E, ,FIFAWorldCup1994
+24403,1994-06-28,"rn"">Republic of Ireland",Norway,,,,,FIFA World Cup,,,,,,Group E, ,FIFAWorldCup1994
+24404,1994-07-04,Netherlands,"rn"">Republic of Ireland",,,,,FIFA World Cup,,,,,,Round of 16, ,FIFAWorldCup1994
+24405,1994-07-04,Brazil,USA,,,,,FIFA World Cup,,,,,,Round of 16, ,FIFAWorldCup1994
+24406,1998-06-14,Yugoslavia,Iran,,,,,FIFA World Cup,,,,,,Group F, ,FIFAWorldCup1998
+24407,1998-06-21,Germany,Yugoslavia,,,,,FIFA World Cup,,,,,,Group F, ,FIFAWorldCup1998
+24408,1998-06-21,USA,Iran,,,,,FIFA World Cup,,,,,,Group F, ,FIFAWorldCup1998
+24409,1998-06-25,Germany,Iran,,,,,FIFA World Cup,,,,,,Group F, ,FIFAWorldCup1998
+24410,1998-06-25,USA,Yugoslavia,,,,,FIFA World Cup,,,,,,Group F, ,FIFAWorldCup1998
+24411,1998-06-29,Netherlands,Yugoslavia,,,,,FIFA World Cup,,,,,,Round of 16, ,FIFAWorldCup1998
+24412,1998-07-03,Italy,France,,,,,FIFA World Cup,,,,,,Quarter-finals,France win on penalties (3 - 4) ,FIFAWorldCup1998
+24413,1998-07-12,Brazil,France,,,,,FIFA World Cup,,,,,,Final, ,FIFAWorldCup1998
+24414,2002-06-01,"rn"">Republic of Ireland",Cameroon,,,,,FIFA World Cup,,,,,,Group E, ,FIFAWorldCup2002
+24415, 200-06-03,Brazil,Turkey,,,,,FIFA World Cup,,,,,,Group C, ,FIFAWorldCup2002
+24416, 200-06-04,China PR,Costa Rica,,,,,FIFA World Cup,,,,,,Group C, ,FIFAWorldCup2002
+24417, 200-06-04,Japan,Belgium,,,,,FIFA World Cup,,,,,,Group H, ,FIFAWorldCup2002
+24418,2002-06-05,Germany,"rn"">Republic of Ireland",,,,,FIFA World Cup,,,,,,Group E, ,FIFAWorldCup2002
+24419, 200-06-07,Spain,Paraguay,,,,,FIFA World Cup,,,,,,Group B, ,FIFAWorldCup2002
+24420, 200-06-08,Italy,Croatia,,,,,FIFA World Cup,,,,,,Group G, ,FIFAWorldCup2002
+24421, 200-06-11,Senegal,Uruguay,,,,,FIFA World Cup,,,,,,Group A, ,FIFAWorldCup2002
+24422,2002-06-11,Saudi Arabia,"rn"">Republic of Ireland",,,,,FIFA World Cup,,,,,,Group E, ,FIFAWorldCup2002
+24423,2002-06-14,Tunisia,Japan,,,,,FIFA World Cup,,,,,,Group H, ,FIFAWorldCup2002
+24424,2002-06-14,Portugal,Korea Republic,,,,,FIFA World Cup,,,,,,Group D, ,FIFAWorldCup2002
+24425,2002-06-16,Spain,"rn"">Republic of Ireland",,,,,FIFA World Cup,,,,,,Round of 16,Spain win on penalties (3 - 2) ,FIFAWorldCup2002
+24426, 200-06-17,Mexico,USA,,,,,FIFA World Cup,,,,,,Round of 16, ,FIFAWorldCup2002
+24427,2002-06-22,Spain,Korea Republic,,,,,FIFA World Cup,,,,,,Quarter-finals,Korea Republic win on penalties (3 - 5) ,FIFAWorldCup2002
+24428,2002-06-25,Germany,Korea Republic,,,,,FIFA World Cup,,,,,,Semi-finals, ,FIFAWorldCup2002
+24429,2006-06-10,"rn"">Trinidad and Tobago",Sweden,,,,,FIFA World Cup,,,,,,Group B, ,FIFAWorldCup2006
+24430,2006-06-10,Argentina,Cte d'Ivoire,,,,,FIFA World Cup,,,,,,Group C, ,FIFAWorldCup2006
+24431,2006-06-11,"rn"">Serbia and Montenegro",Netherlands,,,,,FIFA World Cup,,,,,,Group C, ,FIFAWorldCup2006
+24432,2006-06-11,Mexico,Iran,,,,,FIFA World Cup,,,,,,Group D, ,FIFAWorldCup2006
+24433,2006-06-15,England,"rn"">Trinidad and Tobago",,,,,FIFA World Cup,,,,,,Group B, ,FIFAWorldCup2006
+24434,2006-06-16,Argentina,"rn"">Serbia and Montenegro",,,,,FIFA World Cup,,,,,,Group C, ,FIFAWorldCup2006
+24435,2006-06-16,Netherlands,Cte d'Ivoire,,,,,FIFA World Cup,,,,,,Group C, ,FIFAWorldCup2006
+24436,2006-06-20,Ecuador,Germany,,,,,FIFA World Cup,,,,,,Group A, ,FIFAWorldCup2006
+24437,2006-06-20,Paraguay,"rn"">Trinidad and Tobago",,,,,FIFA World Cup,,,,,,Group B, ,FIFAWorldCup2006
+24438,2006-06-21,Iran,Angola,,,,,FIFA World Cup,,,,,,Group D, ,FIFAWorldCup2006
+24439,2006-06-21,Cte d'Ivoire,"rn"">Serbia and Montenegro",,,,,FIFA World Cup,,,,,,Group C, ,FIFAWorldCup2006
+24440,2010-06-15,Cte d'Ivoire,Portugal,,,,,FIFA World Cup,,,,,,Group G, ,FIFAWorldCup2010
+24441,2010-06-20,Brazil,Cte d'Ivoire,,,,,FIFA World Cup,,,,,,Group G, ,FIFAWorldCup2010
+24442,2010-06-22,France,South Africa,,,,,FIFA World Cup,,,,,,Group A, ,FIFAWorldCup2010
+24443,2010-06-25,Korea DPR,Cte d'Ivoire,,,,,FIFA World Cup,,,,,,Group G, ,FIFAWorldCup2010
+24444,2014-06-14,Cte d'Ivoire,Japan,,,,,FIFA World Cup,,,,,,Group C, ,FIFAWorldCup2014
+24445,2014-06-15,Argentina,"rn"">Bosnia and Herzegovina",,,,,FIFA World Cup,,,,,,Group F, ,FIFAWorldCup2014
+24446,2014-06-19,Colombia,Cte d'Ivoire,,,,,FIFA World Cup,,,,,,Group C, ,FIFAWorldCup2014
+24447,2014-06-21,Nigeria,"rn"">Bosnia and Herzegovina",,,,,FIFA World Cup,,,,,,Group F, ,FIFAWorldCup2014
+24448,2014-06-23,Cameroon,Brazil,,,,,FIFA World Cup,,,,,,Group A, ,FIFAWorldCup2014
+24449,2014-06-24,Greece,Cte d'Ivoire,,,,,FIFA World Cup,,,,,,Group C, ,FIFAWorldCup2014
+24450,2014-06-25,"rn"">Bosnia and Herzegovina",IR Iran,,,,,FIFA World Cup,,,,,,Group F, ,FIFAWorldCup2014
